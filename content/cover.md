@@ -5,7 +5,7 @@ menu: false
 type: cover
 slug: .
 toc: false
-image: pattern-spiral-overlay.png
+image: cover_web.png
 ---
 
-In the 1930s, during America's worst financial crises, the administration of President Franklin D. Roosevelt employed photographers to document the plight of everyday folk in the Great Depression in order to push forward with their New Deal programs. Documentary photographers Dorothea Lange and Walker Evans were prolific frontrunners of these efforts and their extraordinary photographs continue to endure today. Their artistic and documentary mastery and historical importance provide key insight into a monumental turning point in American history.
+This book discusses how cities that have developed through the successive stages of capitalism should transform themselves when adapting to the conditions of the contemporary global age. Since modern times, the capitalist economy has largely defined society, politics, and environment—this has casued the collapse of communities, the crisis of democracy, and serious environmental problems. Cities have a responsibility to overcome such problems and pave the way for a healthy global future. This book highlights various aspects of the urban initiatives and movements that are emerging in different parts of the world It shows how they are rooted in new insights into “public value” that go beyond the one-dimensional view of economic affluence, and are instrumental to the restoration of humanity. How to develop a city that creates “public value” while utilizing new technologies is one of the biggest challenges faced by contemporary civilization, and this book sets the direction for future solutions to such a challenging endeavor.
