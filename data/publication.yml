@@ -50,7 +50,7 @@ contributor:
     first_name: Hiroyuki
     last_name: Mori
     title: Professor of Economics
-    affiliation: Ritsumeikan University
+    affiliation: Ritsumeikan University (Japan)
     bio: |
       Hiroyuki Mori is Professor of Economics at Ritsumeikan University, Japan. He received his BA and MA from Osaka City University and his PhD in Policy Science from Ritsumeikan University. He was previously assistant professor at Kochi University and associate professor at Osaka Kyoiku University. He is a member of the board of trustees of the Japan Institute of Public Finance, the Japan Association of Local Public Finance, and the Japan Association for the Study of Local Government. For decades he has contributed to research on public finance, urban policy, and industrial disaster. 
     url:
@@ -60,7 +60,7 @@ contributor:
     first_name: Tomohiko
     last_name: Yoshida
     title: Professor of Urban and Regional Planning
-    affiliation: Ritsumeikan University
+    affiliation: Ritsumeikan University (Japan)
     bio: |
       **Tomohiko Yoshida** is a Professor of Urban and Regional Planning at Ritsumeikan University, Japan. He received his BE, ME, and Doctor of Engineering from Kyoto University, Japan. He began his career as a research associate at Toyohashi University of Technology and moved to the University of Tsukuba as an assistant professor. He is a member of the Association of Urban Housing Science, the City Planning Institute of Japan, and the Architectural Institute of Japan. For decades he has contributed to the policy development process in City Planning Councils, Vacant House Strategy Committees  , and Development Investigation Committees of municipal governments.
     - id: aanttiroiko
@@ -68,7 +68,7 @@ contributor:
       first_name: Ari-Veikko
       last_name: Anttiroiko
       title: Adjunct Professor
-      affiliation: Tampere University
+      affiliation: Tampere University (Finland)
       bio: |
         **Ari-Veikko Anttiroiko**, PhD, is Adjunct Professor at Tampere University, Finland. His main research interests lie in the areas of local governance and local economic development. Anttiroiko has collaborated with academics and government agencies in different parts of the world. He is a member of the editorial boards of several international journals. He has published extensively on various topics in internationally distributed publications. His latest books include _The Political Economy of City Branding_ (Routledge 2014), _New Urban Management_ (Palgrave 2015), _Wellness City_ (Palgrave 2018), and _The Inclusive City_ (Palgrave 2020). 
     - id: tchikamoto
@@ -76,25 +76,97 @@ contributor:
       first_name: Tomoyuki
       last_name: Chikamoto
       title: Professor
-      affiliation: College of Science and Engineering Department of Architecture and Urban Design, Ritsumeikan University
+      affiliation: College of Science and Engineering Department of Architecture and Urban Design, Ritsumeikan University (Japan)
     - id: tshimizu
       type: secondary
       first_name: Toshiyuki
       last_name: Shimizu
       title: Associate Professor
-      affiliation: Faculty of Urban Management, Fukuyama City University
+      affiliation: Faculty of Urban Management, Fukuyama City University (Japan)
     - id: kkaido
       type: secondary
       first_name: Kiyonobu
       last_name: Kaido
       title: Professor Emeritus
-      affiliation: Meijo University
+      affiliation: Meijo University (Japan)
     - id: khattori
       type: secondary
       first_name: Keiro
       last_name: Hattori
       title: Professor of Policy Science
-      affiliation: Ryukoku University
+      affiliation: Ryukoku University (Japan)
+    - id: yfujii
+      type: secondary
+      first_name: Yasuyuki
+      last_name: Fujii
+      title: Professor
+      affiliation: Faculty of Cultural Policy and Management, Shizuoka University of Art and Culture (Japan)
+    - id: mmatsuyuki
+      type: secondary
+      first_name: Mihoko
+      last_name: Matsuyuki
+      title: Professor
+      affiliation: Institute of Urban Innovation, Yokohama National University (Japan)
+    - id: rsakurai
+      type: secondary
+      first_name: Ryo
+      last_name: Sakurai
+      title: Associate Professor
+      affiliation: College of Policy Science, Ritsumeikan University (Japan)
+    - id: vtaylor
+      type: secondary
+      first_name: Veronica
+      last_name: Taylor
+      title: Professor
+      affiliation: School of Regulation and Global Governance, Australian National University (Australia)
+    - id: mivec
+      type: secondary
+      first_name: Mary
+      last_name: Ivec
+      title: PhD Scholar
+      affiliation: School of Regulation and Global Governance, Australian National University (Australia)
+    - id: mivec
+      type: secondary
+      first_name: Mary
+      last_name: Ivec
+      title: PhD Scholar
+      affiliation: School of Regulation and Global Governance, Australian National University (Australia)
+    - id: skuo
+      type: secondary
+      first_name: Shu-chin Grace
+      last_name: Kuo
+      title: Professor
+      affiliation: Department of Law, National Cheng Kung University (Taiwan)
+    - id: lkuzunishi
+      type: secondary
+      first_name: Lisa
+      last_name: Kuzunishi
+      title: Associate Professor
+      affiliation: Faculty of Regional Development Studies, Otemon Gakuin University (Japan)
+    - id: mng
+      type: secondary
+      first_name: Matthew
+      last_name: Ng
+      title: Research Fellow
+      affiliation: City Futures Research Centre, The University of New South Wales (Australia)
+    - id: cpettit
+      type: secondary
+      first_name: Christopher
+      last_name: Pettit
+      title: Professor
+      affiliation: City Futures Research Centre, The University of New South Wales (Australia)
+    - id: bsoundararaj
+      type: secondary
+      first_name: Balamurugan 
+      last_name: Soundararaj
+      title: Research Associate
+      affiliation: City Futures Research Centre, The University of New South Wales (Australia)
+    - id: khartley
+      type: secondary
+      first_name: Kris 
+      last_name: Hartley
+      title: Assistant Professor
+      affiliation: Department of Asian and Policy Studies of the Faculty of Liberal Arts and Social Sciences, The Education University of Hong Kong (China)
 
 # ------------------------------------------------------------------------------
 # Copright & License
@@ -118,28 +190,28 @@ resource_link:
     media_type: application/pdf
     link_relation: alternate
     url: /downloads/output.pdf
-  - type: other-format
-    name: EPUB
-    media_type: application/epub+zip
-    link_relation: alternate
-    url: /downloads/output.epub
-  - type: other-format
-    name: Kindle/MOBI
-    media_type: vnd.amazon.mobi8-ebook
-    link_relation: alternate
-    url: /downloads/output.mobi
-  - type: footer-link
-    name: About
-    link_relation: about
-    url: /about/
-  - type: footer-link
-    name: Privacy Policy
-    link_relation: privacy-policy
-    url:
-  - type: footer-link
-    name: Terms of Use
-    link_relation: terms-of-service
-    url:
+#  - type: other-format
+#    name: EPUB
+#    media_type: application/epub+zip
+#    link_relation: alternate
+#    url: /downloads/output.epub
+#  - type: other-format
+#    name: Kindle/MOBI
+#    media_type: vnd.amazon.mobi8-ebook
+#    link_relation: alternate
+#    url: /downloads/output.mobi
+#  - type: footer-link
+#    name: About
+#    link_relation: about
+#    url: /about/
+#  - type: footer-link
+#    name: Privacy Policy
+#    link_relation: privacy-policy
+#    url:
+#  - type: footer-link
+#    name: Terms of Use
+#    link_relation: terms-of-service
+#    url:
 
 # ------------------------------------------------------------------------------
 # Subjects
