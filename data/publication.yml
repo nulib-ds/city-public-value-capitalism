@@ -10,20 +10,20 @@
 # ------------------------------------------------------------------------------
 # Title & Description
 title: "City, Public Value, and Capitalism"
-#subtitle: The Works of Dorothea Lange and Walker Evans
+subtitle: "New Urban Visions and Public Strategies"
 reading_line:
-short_title:
+short_title: "City, Public Value, and Capitalism"
 
 description:
-  one_line: Discussions on the future of cities.
+  one_line: This book discusses the trends that are reshapinge cities as value creators in the post-capitalist era at the intersection of humanity, nature, and technology.
   full: >-
-    In 2019, Ritsumeikan University hosted an online forum on the theme of "Smart & Shrinking Cities" through Meridian 180, and held discussions with the members on the future of cities in the 21st century, both face-to-face and online. This book focuses on the issues that are judged to be important in these discussions and presents them in one volume.
+    This book discusses how cities that have developed through the successive stages of capitalism should transform themselves when adapting to the conditions of the contemporary global age. Since modern times, the capitalist economy has largely defined society, politics, and environment—this has casued the collapse of communities, the crisis of democracy, and serious environmental problems. Cities have a responsibility to overcome such problems and pave the way for a healthy global future. This book highlights various aspects of the urban initiatives and movements that are emerging in different parts of the world It shows how they are rooted in new insights into “public value” that go beyond the one-dimensional view of economic affluence, and are instrumental to the restoration of humanity. How to develop a city that creates “public value” while utilizing new technologies is one of the biggest challenges faced by contemporary civilization, and this book sets the direction for future solutions to such a challenging endeavor.
 
 # ------------------------------------------------------------------------------
 # Publication Details
 # ------------------------------------------------------------------------------
 
-pub_date: 2022-03-01 # YYYY-MM-DD
+pub_date: 2022-07-01 # YYYY-MM-DD
 language: en
 pub_type: book # book | journal-periodical | other
 
@@ -32,10 +32,11 @@ identifier:
   url:
 
 publisher:
-  - name: Buffett Institute for Global Affairs
+  - name: |
+      Northwestern University Roberta Buffett Institute for Global Affairs and Northwestern University Libraries
     location: Evanston
     url:
-    logo: logo-getty.png
+    #logo: logo-getty.png
 
 # ------------------------------------------------------------------------------
 # Contributors
@@ -48,23 +49,64 @@ contributor:
     type: primary
     first_name: Hiroyuki
     last_name: Mori
-    title: Professor
-    affiliation: College of Policy Science, Ritsumeikan University, Japan
-    bio:
+    title: Professor of Economics
+    affiliation: Ritsumeikan University
+    bio: |
+      Hiroyuki Mori is Professor of Economics at Ritsumeikan University, Japan. He received his BA and MA from Osaka City University and his PhD in Policy Science from Ritsumeikan University. He was previously assistant professor at Kochi University and associate professor at Osaka Kyoiku University. He is a member of the board of trustees of the Japan Institute of Public Finance, the Japan Association of Local Public Finance, and the Japan Association for the Study of Local Government. For decades he has contributed to research on public finance, urban policy, and industrial disaster. 
     url:
     pic:
+  - id: tyoshida
+    type: primary
+    first_name: Tomohiko
+    last_name: Yoshida
+    title: Professor of Urban and Regional Planning
+    affiliation: Ritsumeikan University
+    bio: |
+      **Tomohiko Yoshida** is a Professor of Urban and Regional Planning at Ritsumeikan University, Japan. He received his BE, ME, and Doctor of Engineering from Kyoto University, Japan. He began his career as a research associate at Toyohashi University of Technology and moved to the University of Tsukuba as an assistant professor. He is a member of the Association of Urban Housing Science, the City Planning Institute of Japan, and the Architectural Institute of Japan. For decades he has contributed to the policy development process in City Planning Councils, Vacant House Strategy Committees  , and Development Investigation Committees of municipal governments.
+    - id: aanttiroiko
+      type: primary
+      first_name: Ari-Veikko
+      last_name: Anttiroiko
+      title: Adjunct Professor
+      affiliation: Tampere University
+      bio: |
+        **Ari-Veikko Anttiroiko**, PhD, is Adjunct Professor at Tampere University, Finland. His main research interests lie in the areas of local governance and local economic development. Anttiroiko has collaborated with academics and government agencies in different parts of the world. He is a member of the editorial boards of several international journals. He has published extensively on various topics in internationally distributed publications. His latest books include _The Political Economy of City Branding_ (Routledge 2014), _New Urban Management_ (Palgrave 2015), _Wellness City_ (Palgrave 2018), and _The Inclusive City_ (Palgrave 2020). 
+    - id: tchikamoto
+      type: secondary
+      first_name: Tomoyuki
+      last_name: Chikamoto
+      title: Professor
+      affiliation: College of Science and Engineering Department of Architecture and Urban Design, Ritsumeikan University
+    - id: tshimizu
+      type: secondary
+      first_name: Toshiyuki
+      last_name: Shimizu
+      title: Associate Professor
+      affiliation: Faculty of Urban Management, Fukuyama City University
+    - id: kkaido
+      type: secondary
+      first_name: Kiyonobu
+      last_name: Kaido
+      title: Professor Emeritus
+      affiliation: Meijo University
+    - id: khattori
+      type: secondary
+      first_name: Keiro
+      last_name: Hattori
+      title: Professor of Policy Science
+      affiliation: Ryukoku University
 
 # ------------------------------------------------------------------------------
 # Copright & License
 # ------------------------------------------------------------------------------
 
-copyright: © 2022 Buffett Institute for Global Affairs
+copyright: © 2022 The Authors
 
 license:
-  name: Creative Commons Attribution 4.0 International License
-  abbreviation: CC BY
-  url: https://creativecommons.org/licenses/by/4.0/
-  scope: full # full | text-only | some-exceptions
+  name: "Creative Commons Attribution-Non-Commercial-NoDerivatives 4.0 International (CC BY NC ND 4.0)""
+  abbreviation: "CC BY NC ND 4.0"
+  url: https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode
+  scope: text-only # full | text-only | some-exceptions
 
 # ------------------------------------------------------------------------------
 # Formats, Resources & Links
