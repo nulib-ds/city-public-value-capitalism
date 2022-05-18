@@ -51,3 +51,6 @@ params:
   figureModalIcons: true
   figureZoom: true
   citationPopupStyle: text # text | icon
+
+ignoreFiles:
+- manuscript/
