@@ -1,16 +1,14 @@
 ---
-label:
+label: Chapter 1
 title: The Age of Urban Visions
 subtitle: From Global Cites to Civic Cities
 short_title: Age of Urban Visions
-#object:
-#  - id:
 contributor:
   - id: hmori
 abstract:
 type: essay
 class:
-weight: 999
+weight: 101
 slug:
 ---
 
@@ -20,7 +18,7 @@ Human beings have built and resided in cities since ancient times. Cities throug
 
 Most cities were originally created based on political and religious powers around which various social and economic activities were carried out and, ultimately, around which urban societies developed. Cities with a clear identity as a "political city" and "religious city" can still be found all over the world.
 
-In modern times, the market economy itself has become the driving force for the formation and development of cities, and "industrial cities" or "economic cities" are now more common than political or religious ones. In some cases, private industry grew spontaneously, and in others the politically-directed market economy exerted great power. Both types of city growth result from the logic of constant expansion tied to the development of capitalism. Capitalism is an economic system dominated by capital that aims for an eternal process of economic value accumulation that subordinates entrepreneurs and workers. Capitalism pursues constant economic growth for society as a whole, and cities have been the centers of capitalistic economic development. Cities today are developed by the power of this capitalistic economy and have become a base for capital accumulation; land use and public policy are geared toward the purpose of economic growth (Harvey, 1985).
+In modern times, the market economy itself has become the driving force for the formation and development of cities, and "industrial cities" or "economic cities" are now more common than political or religious ones. In some cases, private industry grew spontaneously, and in others the politically-directed market economy exerted great power. Both types of city growth result from the logic of constant expansion tied to the development of capitalism. Capitalism is an economic system dominated by capital that aims for an eternal process of economic value accumulation that subordinates entrepreneurs and workers. Capitalism pursues constant economic growth for society as a whole, and cities have been the centers of capitalistic economic development. Cities today are developed by the power of this capitalistic economy and have become a base for capital accumulation; land use and public policy are geared toward the purpose of economic growth ({{< q-cite "Harvey 1985" >}}).
 
 On the other hand, the accumulation of economic resources in the space of the city has threatened the lives of residents in urban societies. Big companies and high-income earners occupy land that is in good condition and benefits from infrastructure and other social and economic benefits, driving workers to poorer residential areas and suburbs. These workers are forced to live in poor housing and endure bad traffic conditions. Over time, the absence of public health and pollution control eroded their lives and health. Even the supply of social resources such as decent housing and water have been so inadequate that cities were constantly afflicted with fear of infectious diseases and pollution. These issues emerged as a new category of social problems called urban problems. Urban problems emerge at every point in the history of the industrial city. While urban growth under capital accumulation was actively driven by the market economy, the urban policy created to deal with the social costs caused by it was poorly designed and implemented.
 
@@ -64,7 +62,7 @@ Sustainable cities aimed for environment-friendly urban development. The explosi
 
 Major efforts have also been made to reduce dependence on the neoliberal free market economy and to create an urban economic structure that is as independent and circular as possible. The guiding idea of ​​the market economy is that the best way to purchase goods and services is to "buy good things as cheaply as possible." Based on the theory of comparative advantage in economics, it is rational to actively purchase cheap and good products and services from outside the city, and conversely to sell products and services with comparative advantage in the city to the outside. However, the logic of comparative advantage presupposes normal and stable times. In the event of a disaster or other emergency, the socioeconomic structure that presupposes such a division of labor exposes vulnerabilities due to long supply chains.
 
-Therefore, the movement to create a resilient urban economic structure has aimed to increase the economic circulation within the city and diversify its industrial structure in order to construct a community-based or social-solidary economy as promoted worldwide through the "buy local" and "slow food" movements. This represents a reemergence of the idea that the existence of the community should be valued. In addition, it has begun to develop into "municipalism," extending into a movement that enhances the economic, political, and administrative independence of a city as a whole ({{< q-cite "Baird 2019" >}}; {{< q-cite "Thomson 2020" >}}).
+Therefore, the movement to create a resilient urban economic structure has aimed to increase the economic circulation within the city and diversify its industrial structure in order to construct a community-based or social-solidary economy as promoted worldwide through the "buy local" and "slow food" movements. This represents a reemergence of the idea that the existence of the community should be valued. In addition, it has begun to develop into "municipalism," extending into a movement that enhances the economic, political, and administrative independence of a city as a whole ({{< q-cite "Baird 2019" >}}; {{< q-cite "Thomson et al. 2020" >}}).
 
 On the other hand, there are still strong movements to develop cities as tools for economic growth. For example, the World Bank seeks to create jobs and mitigate poverty by attracting and growing private firms and industries through the development of more competitive cities ({{< q-cite "World Bank 2015" >}}). Cities lead the economy, and so pursuing cities' growth may not be a mistake. However, current cities with their urban problems have emerged as a result of tracking productivity and competitiveness. It is clear from the results of neoliberal urban policies that such competitive cities do not promise to solve the environmental issues and correct the widening disparities among populations. A city's economic growth should never be denied, but the sound development of a city cannot be directed by the sole value of growth supremacy as it used to be.
 
@@ -90,23 +88,18 @@ Polanyi models the market economy as a system embedded in society, which he call
 
 So far, governments have tried to compromise with the market economy, civil society, and the natural environment by curbing it with increasing public spending and enacting public regulations. However, neoliberal globalization has become extreme and put most municipalities under fiscal stress. As a result, the social integration model, by increasing the role of government, has reached its limit. However, many municipalities are promoting marketization, including commercialization in the public sphere, with the aim of maintaining urban society through short-term economic growth. This condition has led to further imbalances between the market economy and political and civil society, as well as increasing disparities and instability in urban societies.
 
-Under these circumstances, Matthew Thomson and others argue for the application of Polanyi\'s model to a new model of urban governance ({{< q-cite "Thomson 2020" >}}). Polanyi attributed the functioning of the economy to provisioning for peoples' needs or livelihood, with the three elements of reciprocity, redistribution, and exchange weaving through mutual processes. Reciprocity means gifting and mutual aid, redistribution means the collection and distribution of economic resources by power, and exchange means the movement of goods in the market. Reciprocity and redistribution belong to non-market areas. Reciprocity is the economic function of community like the management of commons, and redistribution is mainly conducted under the jurisdiction of the government sector. The balance of these three elements varies by time and place and depends on broader social, cultural, political, and economic contexts. Currently, market exchange is the dominant process in cities. Thomson and others insist that modern municipalities should properly reintegrate Polanyi's three economic elements with urban economies using political, legal, and economic powers to create social justice and sustainable economic development. In that case, it is crucial to make full use of fiscal tools and public regulation, create public value, and revitalize the community beyond the logic of capital.
+Under these circumstances, Matthew Thomson and others argue for the application of Polanyi\'s model to a new model of urban governance ({{< q-cite "Thomson et al. 2020" >}}). Polanyi attributed the functioning of the economy to provisioning for peoples' needs or livelihood, with the three elements of reciprocity, redistribution, and exchange weaving through mutual processes. Reciprocity means gifting and mutual aid, redistribution means the collection and distribution of economic resources by power, and exchange means the movement of goods in the market. Reciprocity and redistribution belong to non-market areas. Reciprocity is the economic function of community like the management of commons, and redistribution is mainly conducted under the jurisdiction of the government sector. The balance of these three elements varies by time and place and depends on broader social, cultural, political, and economic contexts. Currently, market exchange is the dominant process in cities. Thomson and others insist that modern municipalities should properly reintegrate Polanyi's three economic elements with urban economies using political, legal, and economic powers to create social justice and sustainable economic development. In that case, it is crucial to make full use of fiscal tools and public regulation, create public value, and revitalize the community beyond the logic of capital.
 
 The dominant actors in Polanyi\'s three economic elements each have their own codes of conduct, as shown in Table 1.1. The codes of government and the market are widely understood in theory and practice. However, the code of conduct for a community may differ depending on the understanding of the basis of the community's existence. For example, if community is understood as a mere collection of individuals, as it is in mainstream social sciences, the idea of ​​inclusiveness does not appear as part of its code of conduct. However, if companionship implied in reciprocity or mutual care is understood as a part of human nature that transcends individual profit and loss calculation and coercion, then "inclusiveness" is nothing but the original function of community. In this sense, the community code of conduct can be defined by inclusiveness. As the expansion of the market economy and the cutbacks by the government have caused the decline of urban society, the fate of the city in the future depends on how community can be activated through this function of inclusiveness.
 
-  -----------------------------------------------------------------------------------------------------------
-  Table 1.1 Logics of community, government, and market                           
-  ------------------------------------------------------- ----------------------- ---------------------------
-  　                                                      Economic role           Code of conduct
+|            | Economic role  | Code of conduct |
+|------------|----------------|-----------------|
+| Community  | Reciprocity    | Inclusiveness   |
+| Government | Redistribution | Fairness        |
+| Market     | Exchange       | Efficiency      |
 
-  Community                                               Reciprocity             Inclusiveness
-
-  Government                                              Redistribution          Fairness
-
-  Market                                                  Exchange                Efficiency
-
-  Source: Author                                                                  
-  -----------------------------------------------------------------------------------------------------------
+: Table 1.1 Logics of community, government, and market 
+: Source: Author
 
 In order for a community to have strong inclusiveness, it needs to rely on a social philosophy (or communal value); some examples include autonomy, mutual respect, symbiosis, solidarity, self-esteem, empowerment, and democracy. The socioeconomic system that embodies these qualities holistically can be said to have public value. Community is an element of the nature of human society that has been passed down from the origin of human beings\' group life, and is the most important viewpoint through which we can revive cities as a space where we live.
 
