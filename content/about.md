@@ -10,21 +10,18 @@ _City, Public Value, and Capitalism: New Urban Visions and Public Strategies_ wa
 
 ### Chicago
 
-Coming soon...
-
-### MLA
-
-Coming soon...
+Mori, Hiroyuki, Tomohiko Yoshida, and Ari-Veikko Anttiroiko, eds. _City, Public Value, and Capitalism: New Urban Visions and Public Strategies_. Evanston: Northwestern University Libraries.
 
 ### Permanent URL
 
 Coming soon...
 
-## Project Team
+## Editorial Team
 
 - Chris Diaz, Digital Publishing Librarian, Northwestern University Libraries
 - Samantha Nissen, Associate Director for Strategic Initiatives, Northwestern Roberta Buffett Institute for Global Affairs
-- Hiroko Strulovici, Senior Project Coordinator, Northwestern Roberta Buffett Institute for Global Affairs 
+- Hiroko Strulovici, Senior Project Coordinator, Northwestern Roberta Buffett Institute for Global Affairs
+- Harrington Weihl, Copyeditor, Northwestern University 
 
 ## Copyright
 

@@ -1,5 +1,5 @@
 ---
-label: II
+label: '2'
 title: Public Value in the Late Modern City
 subtitle: From Global Cites to Civic Cities
 short_title: Public Value
