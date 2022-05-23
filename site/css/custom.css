@@ -1,0 +1,9 @@
+.quire-cover__hero {
+    /* background-color: #6A8EB8; */
+    /* background-image: linear-gradient(90deg, #6A8EB8, #ff6f00); */
+    position: relative;
+    min-height: calc(95vh - 3rem - 2px) !important;
+    text-align: left;
+    display: flex;
+    align-items: center;
+}
