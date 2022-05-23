@@ -1,12 +1,12 @@
 ---
-label: Chapter 1
+label: I
 title: The Age of Urban Visions
 subtitle: From Global Cites to Civic Cities
 short_title: Age of Urban Visions
 contributor:
   - id: hmori
 abstract:
-type: essay
+type: page
 class:
 weight: 101
 slug:
