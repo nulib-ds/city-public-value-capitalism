@@ -1,20 +1,64 @@
 ---
 title: About
 weight: 203
+pdf: false
 ---
 
-This is a starter theme for [Quire](https://gettypubs.github.io/quire/), a multiformat digital publishing framework. Quire can be used to generate a web book, EPUB and MOBI e-books, and a PDF optimized for print; all from a single set of text files. 
+_City, Public Value, and Capitalism: New Urban Visions and Public Strategies_ was published by [Northwestern University Libraries](https://www.library.northwestern.edu/research/scholarly/digital-publishing.html) on behalf of the [Northwestern Roberta Buffett Institute for Global Affairs](https://buffett.northwestern.edu/). 
 
-This starter theme allows for the quick customization of a few key styles to make you publication project your own. 
+{{< q-class "backmatter" >}}
 
-- Modern and Classic type styles
-- Cover and splash page images
-- Accent color
-- Background colors
-- Navigation bar style
+## Citation Information
 
-By diving further into the included style sheets and layout templates, there’s almost no limit to what can be done.
+### Chicago
 
-The text excerpts included in this starter theme come from *Walker Evans: Catalogue of the Collection* by Judith Keller (Getty Publications, 1995) available for free download in the Getty’s [Virtual Library](https://www.getty.edu/publications/virtuallibrary/0892363177.html); *In Focus: Dorothea Lange* (Getty Publications, 2002); and from the J. Paul Getty Museum online collection records.
+Coming soon...
 
-The images included come from the J. Paul Getty Museum online collection records under their Open Content Program. The pictures of [Dorothea Lange](https://www.loc.gov/resource/fsa.8b27245/) and [Walker Evans](https://www.loc.gov/item/2017728481/) used in the Introduction, come from the Library of Congress Prints and Photographs Division.
+### MLA
+
+Coming soon...
+
+### Permanent URL
+
+Coming soon...
+
+## Project Team
+
+- Chris Diaz, Digital Publishing Librarian, Northwestern University Libraries
+- Samantha Nissen, Associate Director for Strategic Initiatives, Northwestern Roberta Buffett Institute for Global Affairs
+- Hiroko Strulovici, Senior Project Coordinator, Northwestern Roberta Buffett Institute for Global Affairs 
+
+## Copyright
+
+© 2022 The Authors
+
+![CC BY-NC-ND](/img/by-nc-nd.png)
+
+The text of this work is licensed under a Creative Commons Attribution-Non-Commercial-NoDerivatives 4.0 International License. To view a copy of this license, visit [creativecommons.org/licenses/by-nc-nd/4.0/](https://creativecommons.org/licenses/by-nc-nd/4.0/).
+
+First edition, 2021<br />
+
+**Published by Northwestern University Libraries, Evanston**<br />
+1970 Campus Drive<br />
+Evanston, Illinois 60208<br />
+[www.library.northwestern.edu](https://www.library.northwestern.edu/)<br />
+
+Hirokazu Miyazaki, *Report Editor*<br />
+Timothy McLellan and Ariel Schwartz, *Project Managers*<br />
+Chris Diaz, *Digital Production Manager*<br />
+Hiroko Strulovici, *Project Coordinator*<br />
+Toshihiko Watanabe, *Cover Design*<br />
+
+{{< q-class "cip-data" >}}
+
+- Names:  | Northwestern University Libraries, host institution, issuing 
+   body.  
+- Title:  /   
+- Description: First edition. | Evanston : Northwestern University Libraries, 2022. | Summary: ""-- Provided by publisher.  
+- Identifiers: LCCN  (print) | ISBN  (paperback) | ISBN  (pdf) | DOI []()
+
+{{< /q-class >}}
+
+Front cover: All rights reserved.
+
+{{< /q-class >}}
