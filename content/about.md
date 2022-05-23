@@ -6,8 +6,6 @@ pdf: false
 
 _City, Public Value, and Capitalism: New Urban Visions and Public Strategies_ was published by [Northwestern University Libraries](https://www.library.northwestern.edu/research/scholarly/digital-publishing.html) on behalf of the [Northwestern Roberta Buffett Institute for Global Affairs](https://buffett.northwestern.edu/). 
 
-{{< q-class "backmatter" >}}
-
 ## Citation Information
 
 ### Chicago
@@ -49,16 +47,10 @@ Chris Diaz, *Digital Production Manager*<br />
 Hiroko Strulovici, *Project Coordinator*<br />
 Toshihiko Watanabe, *Cover Design*<br />
 
-{{< q-class "cip-data" >}}
-
 - Names:  | Northwestern University Libraries, host institution, issuing 
    body.  
 - Title:  /   
 - Description: First edition. | Evanston : Northwestern University Libraries, 2022. | Summary: ""-- Provided by publisher.  
 - Identifiers: LCCN  (print) | ISBN  (paperback) | ISBN  (pdf) | DOI []()
 
-{{< /q-class >}}
-
 Front cover: All rights reserved.
-
-{{< /q-class >}}
