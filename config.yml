@@ -7,9 +7,9 @@
 # you've copied the default theme and given it a different name make sure to
 # update the value here too.
 
-baseURL: ""
+baseURL: "https://nulib-ds.github.io/city-public-value-capitalism/"
 
-title: "Quire Starter"
+title: "City, Public Value, and Capitalism"
 languageCode: "en-us"
 theme: "default"
 publishDir: site
