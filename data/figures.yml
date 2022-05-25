@@ -1,5 +1,23 @@
 figure_list:
   - id: "1.1"
     src: figures/1.1.png
+    alt: "Quandrant 1 (success and success) contains both community and market"
     caption: "Fig. 1.1: Quadrant of Policy Effects of Municipalities"
     credit: "(Source: Adapted and modified from Bozeman, B. 2007)"
+  - id: "11.1"
+    src: figures/11.1.png
+    alt: "Bar graph that shows an increase in housing costs as a percentage of income"
+    caption: "Fig. 11.1: Housing Stress in Australia between 1994 and 2018."
+    credit: "Figure adapted from ABS, 2019"
+  - id: "11.2"
+    src: figures/11.2.png
+    alt: "Data sources (Operational Databases, External Sources, Others), Data Staging (Restructuring, Transformation, Loading), Data Store (Detailed Data, Metadata, Raw Data), and Users (Queries, Reporting, Application Integration, Analytical Models)"
+    caption: "Fig. 11.2: A possible schema of use for data stores in Australia."
+  - id: "11.3"
+    src: figures/11.3.png
+    alt: "Diagram that explains the elements and links between objects within the platform"
+    caption: "Fig. 11.3: Conceptualization of the Australian Housing Data Analytics Platform, its functionality, users, and services."
+  - id: "11.4"
+    src: figures/11.4.png
+    alt: "Web interface showing a map of Sydney and description of the platform"
+    caption: "Fig. 11.4: The newly launched Colouring Sydney Platform, as part of the Colouring Cities Research Programme, as novel tool for collecting voluntary geographic information and increasing public participation."
