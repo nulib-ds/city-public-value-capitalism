@@ -31,18 +31,12 @@ Coming soon...
 
 The text of this work is licensed under a Creative Commons Attribution-Non-Commercial-NoDerivatives 4.0 International License. To view a copy of this license, visit [creativecommons.org/licenses/by-nc-nd/4.0/](https://creativecommons.org/licenses/by-nc-nd/4.0/).
 
-First edition, 2021<br />
+First edition, 2022<br />
 
 **Published by Northwestern University Libraries, Evanston**<br />
 1970 Campus Drive<br />
 Evanston, Illinois 60208<br />
 [www.library.northwestern.edu](https://www.library.northwestern.edu/)<br />
-
-Hirokazu Miyazaki, *Report Editor*<br />
-Timothy McLellan and Ariel Schwartz, *Project Managers*<br />
-Chris Diaz, *Digital Production Manager*<br />
-Hiroko Strulovici, *Project Coordinator*<br />
-Toshihiko Watanabe, *Cover Design*<br />
 
 - Names:  | Northwestern University Libraries, host institution, issuing 
    body.  
