@@ -53,3 +53,7 @@ figure_list:
     src: figures/3.6.png
     alt:
     caption: "Outline of the Water Smart City"
+  - id: "4.1"
+    src: figures/4.1.png
+    alt:
+    caption: "Locations of the Selected Cases"
