@@ -19,9 +19,9 @@ slug:
 
 The Organization for Economic Co-operation and Development (OECD) defines "Smart Cities" as \"initiatives or approaches that effectively leverage digitalization to boost citizen's well-being and deliver more efficient, sustainable and inclusive urban services and environments as part of a collaborative, multi-stakeholder process". However, it also states, \"The smart city concept is still in flux and subject to debate. Definitions of smart cities vary across OECD countries and institutions according to the geopolitical context and to the specific issues at hand.\"({{< q-cite "OECD, 2020" >}})
 
-In terms of global trends on smart cities, the G20 Global Smart Cities Alliance was established in 2019 with the World Economic Forum as its secretariat. The alliance aims to develop international basic principles and guidelines for cities to use data and digital technologies. 36 cities from around the world are participating as pioneer cities, and 4 cities from Japan are participating: Maebashi, Kaga, Hamamatsu, and Kakogawa (Fig. 3.1).
+In terms of global trends on smart cities, the G20 Global Smart Cities Alliance was established in 2019 with the World Economic Forum as its secretariat ({{< q-cite "G20 Global Smart Cites Alliance WEB site, 2019" >}}; {{< q-cite "The World Economic Forum, 2021" >}}). The alliance aims to develop international basic principles and guidelines for cities to use data and digital technologies. 36 cities from around the world are participating as pioneer cities, and 4 cities from Japan are participating: Maebashi, Kaga, Hamamatsu, and Kakogawa (Fig. 3.1).
 
-!\[Fig. 3.1. 36 Smart Cities in the world. Note that some of the initiatives of Pioneer Cities can be seen at the following website. https://globalsmartcitiesalliance.org/?page_id=714\](figure 3.1.png)
+{{< q-figure id="3.1" >}}
 
 There is also a report of survey results available on the benchmarking of building policies for ethical and responsible governance in smart city development. The standards used for benchmarking include \"equity, inclusivity and social impact,\" \"privacy and transparency,\" "Security and resilience,\" \"Operational and financial sustainability,\" and \"Openness and interoperability,\" and the results of a survey of 36 pioneer cities are presented.
 
@@ -29,7 +29,7 @@ There is also a report of survey results available on the benchmarking of buildi
 
 According to the *Smart City Guidebook* (2021) published by the Cabinet Office of Japan's Ministry of Internal Affairs and Communications, the Ministry of Economy, Trade, and Industry (METI), and the Ministry of Land, Infrastructure, Transport, and Tourism (MLIT), smart cities can be defined as \"sustainable cities or districts that continue to create new value by solving various problems faced by cities and districts through the provision of services that are close to each citizen, utilizing new technologies such as ICT and various types of data from the public and private sectors, and the advancement of management (planning, maintenance, management, operation, etc.) in various fields, and where Society 5.0 can be realized ahead of time.\" Smart cities as defined by the MLIT are classified and organized as shown in Table 3.1.
 
-It should be noted as well that Society 5.0 is defined as \"a human-centered society that achieves both economic development and solutions to social issues through a system that highly integrates cyberspace (virtual space) and physical space (real space)\" (Cabinet Office, 2021) It refers to a new society following the hunting society (Society 1.0), agricultural society (Society 2.0), industrial society (Society 3.0), and information society (Society 4.0), and was first proposed as the future society that Japan should aim for in the Fifth Science and Technology Basic Plan.
+It should be noted as well that Society 5.0 is defined as \"a human-centered society that achieves both economic development and solutions to social issues through a system that highly integrates cyberspace (virtual space) and physical space (real space)\" ({{< q-cite "Cabinet Office, 2021" >}}) It refers to a new society following the hunting society (Society 1.0), agricultural society (Society 2.0), industrial society (Society 3.0), and information society (Society 4.0), and was first proposed as the future society that Japan should aim for in the Fifth Science and Technology Basic Plan.
 
 As of August 2021, 184 projects are introduced on the Smart City Platform website. The main smart city-related projects promoted by the relevant ministries and agencies include: a) The Social implementation project for near-future technologies by the Cabinet Office; b) the Smart City Promotion Project for data utilization by the Ministry of Internal Affairs and Communications; c) the Regional New "MaaS" (Mobility as a Service) Creation and Promotion Project by the Ministry of Economy; Trade and Industry, d) the Project for the Promotion of New Mobility Services by the Ministry of Land, Infrastructure, Transport and Tourism (MLIT); and e) the Smart City Model Project by the MLIT (see Table 3.2). The number of projects that include transportation as an issue is 158, and 143 projects include tourism and regional revitalization, indicating that smart city initiatives in Japan are mainly focused on transportation issues (MaaS), tourism, and regional revitalization (Table 3.3).
 
@@ -51,7 +51,7 @@ In order to realize regional development in accordance the Super City concept, t
 
 The SDGs are international goals to be achieved by 2030 as stated in the \"2030 Agenda for Sustainable Development\" adopted at the United Nations Sustainable Development Summit 2015; they consist of 17 Goals and 169 Targets.
 
-Goal 11 of the SDGs reads: \"Make cities and human settlements inclusive, safe, resilient and sustainable,\" and indeed the realization of smart cities is deeply related to the achievement of Goal 11. However, the scope of the SDGs is broad, and smart cities are related to all 17 Goals, as well as to 81 targets (MLIT, 2018). The Keidanren (Japan Business Federation) also states that Society 5.0 will contribute significantly to the achievement of SDGs because it is a new growth model that combines problem solving and future innovations. Since smart cities are the places where Society 5.0 will be demonstrated, the realization and implementation of smart cities is essential to the achievement of the SDGs.
+Goal 11 of the SDGs reads: \"Make cities and human settlements inclusive, safe, resilient and sustainable,\" and indeed the realization of smart cities is deeply related to the achievement of Goal 11. However, the scope of the SDGs is broad, and smart cities are related to all 17 Goals, as well as to 81 targets ({{< q-cite "MLIT, 2018" >}}). The Keidanren (Japan Business Federation) also states that Society 5.0 will contribute significantly to the achievement of SDGs because it is a new growth model that combines problem solving and future innovations. Since smart cities are the places where Society 5.0 will be demonstrated, the realization and implementation of smart cities is essential to the achievement of the SDGs.
 
 #### Table 3.2: Number of Projects by Project Aim
 
@@ -82,7 +82,7 @@ Goal 11 of the SDGs reads: \"Make cities and human settlements inclusive, safe, 
 |     Urban Planning and Development                  |     18                    |
 |     Total Number of Projects                        |     184                   |
 
-!\[Fig. 3.2. Outline of the Smart City.\](figure 3-2.png)
+{{< q-figure id="3.2" >}}
 
 ## Energy Management in the Smart City
 
@@ -96,7 +96,7 @@ Since there are human activities in the building, energy consumption cannot be c
 
 The definition of ZEB / ZEH has been discussed and examined in various ways both in Japan and abroad. For example, in Japan, if an energy savings of 30% or more is achieved in a building, it is "ZEB Oriented." If an energy savings of 50% or more has been achieved and it aims to use renewable energy it is "ZEB Ready." Furthermore, it is classified as "Nearly ZEB" when it has achieved a reduction in energy consumption of 75% or more through energy saving processes and the use of renewable energy, and is at that point considered to represent a realization and popularization of the goals of the ZEB policy.
 
-!\[Fig. 3.3 ZEB Roadmap (Ministry of Economy, Trade and Industry "2018 ZEB Roadmap Follow-up Committee Summary")\](figure 3-3.png)
+{{< q-figure id="3.3" >}}
 
 ### *The Importance of Regional Power Sources*
 
@@ -108,9 +108,9 @@ In addition, decentralized energy resources, including cogeneration methods like
 
 For this reason, the conventional energy supply system that relies on large-scale power plants is being revised, and the construction of a mechanism for utilizing energy resources on the consumer-side of the electric power system is being promoted. Each of the decentralized energy resources available to buildings and homes are small, but they can be used to adjust the balance between the supply and demand of electricity by remote and integrated control using advanced energy management technology that utilizes the Internet of Things (IoT). This mechanism is called a virtual power plant (VPP). VPPs are expected to play an active role in future electric power systems, offering functions such as load leveling, absorption of excess supply of renewable energy, and providing supply in the event of power shortage. Moreover, not only in Japan, but also in areas where energy infrastructure is not well-developed or unstable, VPPs will lead to stable energy use on a regional basis without requiring large-scale infrastructure.
 
-!\[Fig. 3.4 Infrastructure development using VPP will strengthen the region and is expected to be utilized even in areas where infrastructure is not developed in Asia.\](figure 3-4.png)
+{{< q-figure id="3.4" >}}
 
-!\[Fig. 3.5 Outline of the experimental setting.\](figure 3-5.png)
+{{< q-figure id="3.5" >}}
 
 In a self-sustaining operational experiment---using an experimental house in my own laboratory during a power outage---a 40kWh electric vehicle (EV) was connected to a 12kWh storage battery (LiB, Lithium ion storage battery), and 4kW of solar power generation (PV) was used to generate electricity. So, depending on the ratio of the amount of electricity stored to the amount of electricity used, I was able to maintain a stable life for several days.
 
@@ -166,10 +166,10 @@ The rainwater collected from roofs is considered to have the highest quality amo
 
 As mentioned above, water reclamation/reuse is essential in areas where water resources are scarce. The water reclaimed through sewage treatment can be used as non-potable water for toilet flushing, cleaning, landscape irrigation, and industrial tasks. Throughout the world, reclaimed water is often used for agricultural purposes. Furthermore, reclaimed water is cooler in summer and warmer in winter compared to the outside temperature. A demonstration project for advanced combined use of reclaimed sewage water, which utilizes the temperature of reclaimed water as both a heat source and a supply for air conditioning, has also been implemented in Sakai City, Osaka Prefecture.
 
-!\[Fig. 3.6 Outline of the Water Smart City\](figure 3-6.png)
+{{< q-figure id="3.6" >}}
 
 ## Toward the Realization of Smart Cities
 
-Various pilot projects are underway and there are often many good practices among them. In particular, the BIM (building information model) is an effective tool that is being utilized. The sharing economy is also becoming more common, and platforms for these new systems are being formed. Furthermore, web and digital society are changing city planning itself (Douay, 2018). However, smart cities are composed of many elements and are not comprised only by IoT, transportation, buildings, energy, resources, etc. In addition, some places have unique needs, such as cities and villages in the mountains, that differ greatly from country to country, and so there is no universal solution. It is important to have a blueprint that accounts for these in each city. Above all, the active cooperation of citizens is indispensable.
+Various pilot projects are underway and there are often many good practices among them. In particular, the BIM (building information model) is an effective tool that is being utilized. The sharing economy is also becoming more common, and platforms for these new systems are being formed. Furthermore, web and digital society are changing city planning itself ({{< q-cite "Douay, 2018" >}}). However, smart cities are composed of many elements and are not comprised only by IoT, transportation, buildings, energy, resources, etc. In addition, some places have unique needs, such as cities and villages in the mountains, that differ greatly from country to country, and so there is no universal solution. It is important to have a blueprint that accounts for these in each city. Above all, the active cooperation of citizens is indispensable.
 
 More information must be collected and analyzed regarding the implementation of smart cities. Since various devices are connected to the Internet and utilize the associated information, smart cities can be said to be a citizen-participant cities. Therefore, it is also necessary to develop information management rules on how to maximize the use of personal information and corporate information while respecting privacy and information security.
