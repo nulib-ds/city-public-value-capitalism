@@ -15,9 +15,9 @@ slug:
 
 ## What is a "Smart City"？
 
-***Definitions and Trends of Smart Cities in the World***
+### *Definitions and Trends of Smart Cities in the World*
 
-The Organization for Economic Co-operation and Development (OECD) defines "Smart Cities" as \"initiatives or approaches that effectively leverage digitalization to boost citizen's well-being and deliver more efficient, sustainable and inclusive urban services and environments as part of a collaborative, multi-stakeholder process". However, it also states, \"The smart city concept is still in flux and subject to debate. Definitions of smart cities vary across OECD countries and institutions according to the geopolitical context and to the specific issues at hand.\"(OECD, 2020)
+The Organization for Economic Co-operation and Development (OECD) defines "Smart Cities" as \"initiatives or approaches that effectively leverage digitalization to boost citizen's well-being and deliver more efficient, sustainable and inclusive urban services and environments as part of a collaborative, multi-stakeholder process". However, it also states, \"The smart city concept is still in flux and subject to debate. Definitions of smart cities vary across OECD countries and institutions according to the geopolitical context and to the specific issues at hand.\"({{< q-cite "OECD, 2020" >}})
 
 In terms of global trends on smart cities, the G20 Global Smart Cities Alliance was established in 2019 with the World Economic Forum as its secretariat. The alliance aims to develop international basic principles and guidelines for cities to use data and digital technologies. 36 cities from around the world are participating as pioneer cities, and 4 cities from Japan are participating: Maebashi, Kaga, Hamamatsu, and Kakogawa (Fig. 3.1).
 
@@ -25,7 +25,7 @@ In terms of global trends on smart cities, the G20 Global Smart Cities Alliance 
 
 There is also a report of survey results available on the benchmarking of building policies for ethical and responsible governance in smart city development. The standards used for benchmarking include \"equity, inclusivity and social impact,\" \"privacy and transparency,\" "Security and resilience,\" \"Operational and financial sustainability,\" and \"Openness and interoperability,\" and the results of a survey of 36 pioneer cities are presented.
 
-***Definitions and Trends among Smart Cities in Japan***
+### *Definitions and Trends among Smart Cities in Japan*
 
 According to the *Smart City Guidebook* (2021) published by the Cabinet Office of Japan's Ministry of Internal Affairs and Communications, the Ministry of Economy, Trade, and Industry (METI), and the Ministry of Land, Infrastructure, Transport, and Tourism (MLIT), smart cities can be defined as \"sustainable cities or districts that continue to create new value by solving various problems faced by cities and districts through the provision of services that are close to each citizen, utilizing new technologies such as ICT and various types of data from the public and private sectors, and the advancement of management (planning, maintenance, management, operation, etc.) in various fields, and where Society 5.0 can be realized ahead of time.\" Smart cities as defined by the MLIT are classified and organized as shown in Table 3.1.
 
@@ -37,31 +37,19 @@ Table 3.1
 
 *Classification of Smart Cities by the MLIT*
 
-+-------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| **Category**      | **Description**                                                                                                                                                                                                    |
-+===================+====================================================================================================================================================================================================================+
-| Accessibility     | All citizens can move around comfortably with a focus on public transportation, improved convenience and transportation services through the use of automated driving, demand-responsive transportation, and MaaS. |
-+-------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| Nature            | Urban space exists in harmony with water and greenery.                                                                                                                                                             |
-+-------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| Energy            | Realization of energy conservation at the building/block/district-level from both passive and active aspects.                                                                                                      |
-|                   |                                                                                                                                                                                                                    |
-|                   | Utilization of renewable energy such as solar and wind power, promoting local production and consumption of energy that is secure even in emergencies.                                                             |
-+-------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| Safety & Security | Developing disaster-resistant cities, fostering local communities, and                                                                                                                                             |
-|                   |                                                                                                                                                                                                                    |
-|                   | securing emergency power generators, stockpiles, and evacuation sites in urban development.                                                                                                                        |
-|                   |                                                                                                                                                                                                                    |
-|                   | Remote management of health conditions using wearable terminals, promoting walking through the use of apps, monitoring rivers using water level sensors.                                                           |
-+-------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| Recycle           | Storage and utilization of rainwater, use of reclaimed water from wastewater treatment as non-potable water, waste management (3R, waste heat utilization, etc.).                                                  |
-+-------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|     Category          |     Description                                                                                                                                                                                                                                                                                                                        |
+|-----------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|     Accessibility     |     All citizens can move around comfortably with a focus on public transportation, improved convenience and transportation services through the use of automated driving, demand-responsive transportation, and MaaS.]                                                                                                                |
+|     Nature            |     Urban space exists in harmony with water and greenery.                                                                                                                                                                                                                                                                             |
+|     Energy            |     Realization of energy conservation at the building/block/district-level from both passive and active aspects.     Utilization of renewable energy such as solar and wind power, promoting local production and consumption of energy that is secure even in emergencies.                                                           |
+|     Safety & Security |     Developing disaster-resistant cities, fostering local communities, and securing emergency power generators, stockpiles, and evacuation sites in urban development.     Remote management of health conditions using wearable terminals, promoting walking through the use of apps, monitoring rivers using water level sensors.    |
+|     Recycle           |     Storage and utilization of rainwater, use of reclaimed water from wastewater treatment as non-potable water, waste management (3R, waste heat utilization, etc.).                                                                                                                                                                  |
 
-***From Smart Cities to Super Cities***
+### *From Smart Cities to Super Cities*
 
 In order to realize regional development in accordance the Super City concept, the Cabinet Office has invited applications for the designation of Super City-type National Strategic Special Zones, and a number of local governments have applied for this designation. While smart cities focus on demonstrations of one or more state-of-the-art technologies such as transportation and energy, super cities are future cities that will implement information technology as a basic social infrastructure.
 
-***Smart Cities and Sustainable Development Goals (SDGs)***
+### *Smart Cities and Sustainable Development Goals (SDGs)*
 
 The SDGs are international goals to be achieved by 2030 as stated in the \"2030 Agenda for Sustainable Development\" adopted at the United Nations Sustainable Development Summit 2015; they consist of 17 Goals and 169 Targets.
 
@@ -71,55 +59,36 @@ Table 3.2
 
 *Number of Projects by Project Aim*
 
-  ------------------------------------------------------------ ------------------------
-  **Project Name**                                             **Number of Projects**
-
-  Social implementation project for near-future technologies   34
-
-  Smart City Promotion Project for data utilization            18
-
-  Regional New MaaS Creation Promotion Project                 29
-
-  The Project for the Promotion of New Mobility Services       57
-
-  The Smart City Model Project                                 45
-
-  MLIT Smart Island Promotion Demonstration Survey             1
-
-  Total                                                        184
-  ------------------------------------------------------------ ------------------------
+------------------------------------------------------------ ------------------------
+**Project Name**                                             **Number of Projects**
+Social implementation project for near-future technologies   34
+Smart City Promotion Project for data utilization            18
+Regional New MaaS Creation Promotion Project                 29
+The Project for the Promotion of New Mobility Services       57
+The Smart City Model Project                                 45
+MLIT Smart Island Promotion Demonstration Survey             1
+Total                                                        184
+------------------------------------------------------------ ------------------------
 
 Table 3.3
 
 *Number of Smart City Projects in Japan by Issue Category (Multiple Answers Permitted)*
 
-  -------------------------------------------------- ------------------------
-  **Classification of Issues**                       **Number of Projects**
-
-  Transportation and Mobility                        158
-
-  Energy                                             22
-
-  Disaster Prevention                                36
-
-  Maintenance and Management of Infrastructure       38
-
-  Tourism and Regional Revitalization                143
-
-  Well-Being and Medical                             48
-
-  Agriculture, Forestry, and Fishery                 17
-
-  Environment                                        17
-
-  Safety, Security, and Surveillance                 21
-
-  Logistics                                          31
-
-  Urban Planning and Development                     18
-
-  Total Number of Projects                           184
-  -------------------------------------------------- ------------------------
+-------------------------------------------------- ------------------------
+**Classification of Issues**                       **Number of Projects**
+Transportation and Mobility                        158
+Energy                                             22
+Disaster Prevention                                36
+Maintenance and Management of Infrastructure       38
+Tourism and Regional Revitalization                143
+Well-Being and Medical                             48
+Agriculture, Forestry, and Fishery                 17
+Environment                                        17
+Safety, Security, and Surveillance                 21
+Logistics                                          31
+Urban Planning and Development                     18
+Total Number of Projects                           184
+-------------------------------------------------- ------------------------
 
 !\[Fig. 3.2. Outline of the Smart City.\](figure 3-2.png)
 
@@ -127,7 +96,7 @@ Table 3.3
 
 The biggest element that constitutes a smart city is the decision to avoid sustaining life in the city through the consumption of large amounts of fossil fuel by supplying the necessary power by renewable energy while reducing energy consumption. In other words, the energy supply and demand are managed between the consumer side and the power generation side.
 
-***Zero and Net Energy Buildings***
+### *Zero and Net Energy Buildings*
 
 Net Zero Energy Buildings (ZEB) and Net Zero Energy Houses (ZEH) are buildings or houses that aim to reduce the annual primary energy balance consumed while maintaining a comfortable indoor environment.
 
@@ -137,7 +106,7 @@ The definition of ZEB / ZEH has been discussed and examined in various ways both
 
 !\[Fig. 3.3 ZEB Roadmap (Ministry of Economy, Trade and Industry "2018 ZEB Roadmap Follow-up Committee Summary")\](figure 3-3.png)
 
-***The Importance of Regional Power Sources***
+### *The Importance of Regional Power Sources*
 
 Until now, power systems have relied on demand control to shift to midnight power in order to stabilize nuclear power generation (base power) and power generation has been centrally controlled by the supply of large-scale power plants built according to power demand.
 
@@ -155,7 +124,7 @@ In a self-sustaining operational experiment---using an experimental house in my 
 
 Based on these experimental results, we are constructing an energy independence model for the region and observing how much tolerance it has under various conditions, while also assessing introduction costs along with the usual merits and drawbacks. Verification is in progress.
 
-***Safe, Secure, and Healthy Living***
+### *Safe, Secure, and Healthy Living*
 
 A major feature of smart cities is the utilization of IoT to support an aging society. This is part of the reason that the IoT, in which all things are connected to the Internet, is being promoted to maintain a healthy standard of living. Through it, various things such as smartphones, smart speakers, personal computers, home appliances, and automobiles share information on the Internet and control other devices. A \"sensor\" that detects the environmental state of its surroundings is indispensable for realizing the full potential of IoT . In particular, the development of the Micro Electromechanical System (MEMS), which is a micron-level device that integrates sensors, actuators, electronic circuits, etc., and is constructed of miniaturized mechanical elements, seeks to provide this.
 
@@ -175,7 +144,7 @@ Japan has about twice as much rainfall as the world average, and due to the effe
 
 In Japan, population decline has become a major issue when it comes to managing and utilizing water resources. In Japan, aging facilities related to infrastructure such as water supply and sewerage systems constructed during the high-growth period have become a serious problem, and huge costs are required for their renewal. On the other hand, in recent years, water demand has been declining due to population decline and the advancement of water-saving methods, so it is necessary to rebuild facilities with downsizing in mind. In Japan, water supply and sewage systems are managed by local governments, but wide-ranging cooperation beyond the boundaries of municipalities and, in some cases, prefectures will be required.
 
-***Wide-Area Water Supply in Smart Cities***
+### *Wide-Area Water Supply in Smart Cities*
 
 In Japan, water utilities that provide drinking water are, in principle, managed and operated by municipalities and are required to be financially independent with full cost recovery. The business situations of the water supply utilities are expected to become more severe due to the declining population and aging facilities and pipelines. It is important to strengthen the management base, improve the efficiency of office work, and secure the technical level of their operations by promoting various wide-ranging cooperation such as utilities integration, joint facilities development, and wide-area processing in office work. Therefore, it is necessary to consider strategic widening with an eye on the future. Coordination between prefectures is important in efforts to extend the area of operations beyond the traditional administrative areas of municipalities. Therefore, the Japanese Ministry of Internal Affairs and Communications and the Ministry of Health, Labor and Welfare are requesting that prefectures formulate a promotion plan for a wide area of water supply as stipulated by both the promotion policy for wide cooperation and the content of particular efforts. Now is the time to make the best use of existing facilities and to consider water supply systems that utilize wide-area operations such as connecting pipes, common water purification facilities, and distribution reservoirs in cooperation with related business operators.
 
@@ -183,15 +152,15 @@ This concept of wide-area water supply incorporates a diverse range of initiativ
 
 On the other hand, gaps between water utilities in areas such as tariff levels, financial conditions, and facility levels are barriers to the promotion of wide-area water supply. Wide-area water supply in a broad sense includes not only utilities integration but also joint operation and joint management, and it will be necessary for stakeholders to cooperate based on what the utilities concerned can do together. In particular, material ordering and inventory management systems are relatively easy to combine, and it is expected that operating costs could be reduced by introducing and operating the same system in several regions. The introduction of the latest information technology related to water supply operation and management is also an important point. The following are possible examples: a) Improving inspection efficiency by introducing sensors into the pipeline network; b) high-quality short-term demand forecasting through machine learning, etc.; and c) prediction of raw water quality and operation/management of water purification facilities using weather forecasting.
 
-***Smart Water Meters***
+### *Smart Water Meters*
 
 In recent years, the introduction of smart meters in the water supply field has attracted attention. It is expected that various improvements in the efficiency of water utilities could be achieved by installing smart meters that can offer improved efficiency in meter reading through the visualization of detailed data such as demand fluctuations, early leakage detection, improvement of user services, efficient pipeline network management, and efficient energy use through improved water operation, etc.
 
 In addition, the improvement of user services could include monitoring for elderly people living alone, and it is possible to quickly detect abnormalities due to illness or injury of residents by monitoring the amount of water used. At present, the installation cost is a major problem, but many water utilities are conducting feasibility projects for smart meter introduction. Also, by collecting water data together with electricity and gas data, it will be possible for authorities to integrate data related to public utilities.
 
-**Sewerage in Smart Cities**
+## Sewerage in Smart Cities
 
-***Utilizing Information Technology***
+### *Utilizing Information Technology*
 
 In Japan, the histories of water supply and sewerage systems differ slightly. Public sewerage systems were developed in each city from early on in the center of large cities, but there are many areas where prefectural governments have taken the lead in developing basin sewerage systems. Therefore, sewerage is a wide-area system compared to the water supply sector.
 
@@ -199,7 +168,7 @@ On the other hand, sewerage facilities are aging like water facilities. It could
 
 Also, one of the purposes of sewerage is to remove rainwater. In recent years, it could be said that the risk of inland water inundation is increasing because rainwater removal is not able to endure sudden torrential rain. It could be possible to disseminate risk information and reduce damage by controlling the water level in advance through the utilization of weather forecasts and water-level monitoring in pipelines and reservoirs.
 
-***Rainwater and Reclaimed Water Use***
+### *Rainwater and Reclaimed Water Use*
 
 The rainwater collected from roofs is considered to have the highest quality among sources of surface water such as river water. Therefore, it is relatively easy to treat and use rainwater onsite from the viewpoint of water treatment technology. In addition, rainwater use has the advantage of reducing the rainwater runoff. Furthermore, rainwater stored in a rainwater tank can be used as emergency water when the infrastructure is damaged in the event of a disaster. In the water treatment process, since it is assumed that the water treatment facilities may not be able to operate due to power supply interruptions, the installation of an independent energy system and rainwater system will also enhance disaster resilience.
 
@@ -212,45 +181,3 @@ As mentioned above, water reclamation/reuse is essential in areas where water re
 Various pilot projects are underway and there are often many good practices among them. In particular, the BIM (building information model) is an effective tool that is being utilized. The sharing economy is also becoming more common, and platforms for these new systems are being formed. Furthermore, web and digital society are changing city planning itself (Douay, 2018). However, smart cities are composed of many elements and are not comprised only by IoT, transportation, buildings, energy, resources, etc. In addition, some places have unique needs, such as cities and villages in the mountains, that differ greatly from country to country, and so there is no universal solution. It is important to have a blueprint that accounts for these in each city. Above all, the active cooperation of citizens is indispensable.
 
 More information must be collected and analyzed regarding the implementation of smart cities. Since various devices are connected to the Internet and utilize the associated information, smart cities can be said to be a citizen-participant cities. Therefore, it is also necessary to develop information management rules on how to maximize the use of personal information and corporate information while respecting privacy and information security.
-
-## References
-
-G20 Global Smart Cites Alliance WEB site (2019). *World Economic Forum to Lead G20 Smart Cities Alliance on Technology Governance*. https://www.weforum.org/press/2019/06/world-economic-forum-to-lead-g20-smart-cities-alliance-on-technology-governance/
-
-OECD. (2020). *Smart Cities and Inclusive Growth*. https://www.oecd.org/cfe/cities/OECD_Policy_Paper_Smart_Cities_and_Inclusive_Growth.pdf
-
-The World Economic Forum (2021). *Governing smart cities: policy benchmarks for ethical and responsible smart city development*. http://www3.weforum.org/docs/WEF_Governing_Smart_Cities_2021.pdf
-
-Ministry of Land, Infrastructure, Transport and Tourism, Urban Affairs Bureau (2018). *\"Interim Summary\" for the realization of smart cities*. https://www.mlit.go.jp/common/001249774.pdf
-
-Smart City Public-Private Partnership Platform Website. *Smart City Project.*
-
-> https://www.mlit.go.jp/scpf/projects/index.html
-
-Cabinet Office, Ministry of Internal Affairs and Communications, Ministry of Economy, Trade and Industry, Ministry of Land, Infrastructure, Transport and Tourism (2021). *Smart City Public-Private Partnership Platform: Smart City Guidebook*.
-
-> https://www8.cao.go.jp/cstp/society5_0/smartcity/01_scguide_1.pdf, https://www8.cao.go.jp/cstp/society5_0/smartcity/01_scguide_2-1.pdf, https://www8.cao.go.jp/cstp/society5_0/smartcity/01_scguide_2-2.pdf
-
-Cabinet Office Web site. What is Society 5.0? https://www8.cao.go.jp/cstp/english/society5_0/index.html
-
-Cabinet Office Website. (2021). *\"Super City\" concept*. https://www.chisou.go.jp/tiiki/kokusentoc/supercity/openlabo/supercity.pdf
-
-Cabinet Office Website. *\"Super City\" concept: About the Super City Initiative*. https://www.chisou.go.jp/tiiki/kokusentoc/english/super-city/index.html
-
-Douay, N. (2018). Urban Planning in the Digital Age, Volume 6. ISTE/Wiley. <https://onlinelibrary.wiley.com/doi/book/10.1002/9781119482949>
-
-Ministry of Economy, Trade and Industry (2019). Summary of ZEB Roadmap Follow-up Committee.
-
-> https://www.enecho.meti.go.jp/category/saving_and_new/saving/enterprise/support/pdf/1903_followup_summary.pdf
-
-Ministry of Health, Labor and Welfare Website. (2019). *Formulation of the Promotion Plan for Wide-Area Water Supply*.
-
-> https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000087512_00001.html
-
-Kagawa Prefecture. (2017). *Water Supply Vision, Kagawa Prefecture*. https://www.pref.kagawa.lg.jp/documents/5880/sur94r151127123627_f20_1.pdf
-
-Ministry of Land, Infrastructure, Transport and Tourism. (n.d.) *Sewerage, Resources and Energy Created by Sewerage, Formation of Resource and Energy Circulation*. https://www.mlit.go.jp/mizukokudo/sewerage/crd_sewerage_tk_000124.html
-
-Ministry of Land, Infrastructure, Transport and Tourism. (n.d.) *Sewerage system, efficient operation and management, utilization of ICT*. https://www.mlit.go.jp/mizukokudo/sewerage/mizukokudo_sewerage_tk_000603.html
-
-Yamagata, M., Ajimi, S., Shinojima, T., Watanabe, H., Masaki, Y., & Takahashi, S. (2016). Demonstration Experiment on Advanced and Combined Use of Reclaimed Water in Large Commercial Facility. *Technical papers of the annual meeting, the Society of Heating, Air-Conditioning and Sanitary Engineers of Japan*, 317-320.
