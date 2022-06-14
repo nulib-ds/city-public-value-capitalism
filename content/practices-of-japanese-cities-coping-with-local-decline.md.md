@@ -175,55 +175,19 @@ Table 4.2
 | Nagato City    |            34,305 | Drastic regional revitalization policy through public and private cooperation, such as the entrustment of a private company with the creation of a master plan.              | Although the population decline rate was higher than the national average, the net migration loss was small.                                                                                                                              | Recently, although the contribution ratio of the net migration loss has tended to decrease, and the population has continuously decreased, Nagato has successfully kept people in the city and encouraged people to move into the city from outside to a certain extent. |
 | Kamiyama Town  |             5,319 | Adoption of a policy to proactively invite people from outside.                                                                                                              | Although the population decline rate was higher than the national average, the net migration loss was small.                                                                                                                              | More than 100 people have moved into Kamiyama every year, and young people in their 20s and 30s account for approximately 50% of this.                                                                                                                                   |
 
-## References
-
-Fukui City. (2018). Increase of Regional Value by Tentative Use of Vacant Parking Lots. 31^st^ National Meeting of Parking Lots Policy.
-
-Fukui City. (2021) Redevelopment Project by City Planning Division. https://www.city.fukui.lg.jp/sisei/tkeikaku/sigaiti/
-
-Kaidou, K. (2001). The Study of evaluation of urban-life environment by using population density indicator. *Journal of the City Planning Institute of Japan,* *36*, 421-426. https://doi.org/10.11361/journalcpij.36.421
-
-Kitahara, K. (2012). A Sustainability of Suburban Residence in the Compact City, *Journal of the Housing Research Foundation*, *38*, 23-34. https://doi.org/10.20803/jusokenronbun.38.0_23
-
-Kitou, H. (2011). On -third of Present Population in 2100. Tokyo: *Media Factory*. (Written in Japanese as Jinkou Sanbunn no ichi no Nihon.)
-
-Mallach, A., Hasse, A., and Hattori, K. (2017). The shrinking city in comparative perspective: Contrasting dynamics and responses to urban shrinkage. *Cities*, *69*, 102--108. <https://doi.org/10.1016/j.cities.2016.09.008>
-
-> Martinez-Fernandeza, C., Weyman, T. Fol, S., Audirac, I., Cunningham-Sabot, E., Wiechmann, T., and Yahagi, H. (2016). Shrinking cities in Australia, Japan, Europe and the USA: From a global process to local policy responses, *Progress in Planning*, 105, 1-48. <https://doi.org/10.1016/j.progress.2014.10.001>
-
-Nagato City. (2016). Nagato Yumoto Onsen Tourism Development Plan. (Written in Japanese as Nagato Yumoto Onsen Kankou Machidukuri Keikaku.)
-
-Shouji, R. (2016). Why are compact cities failing? *Yahoo! News*. <https://news.yahoo.co.jp/feature/423/>. (Written in Japanese as Naze Compact City ha Shippai Surunoka.)
-
-Takahashi, T. et al. (2015). War Damage and Earthquake Reconstruction Plan of Fukui and Tasaburo Kumagai, *Journal of Japan Society of Civil Engineers*. *11*, 109-118. http://library.jsce.or.jp/jsce/open/00897/2015/11-0109.pdf
-
-Toyoda, M. (2016). Practice of Area Renovation―Old Urban District in Onomichi, *Area Renovation*, Kyoto: Gakugei Shuppansha. (written in Japanese as Area Innovation no Jissen.)
-
-Yokoo, M. (1987). The Historical Implications of the Land Use Pattern of Hirosaki, Annals of the Tohoku Geography, *39*(4), 302-315. https://doi.org/10.5190/tga1948.39.302
-
 ## Reporting Partners
 
-> Harada, Yoko. Associate Professor, Fukui University (May 2018)
->
-> Izumi, Hideaki. Representative Director, Heart Beat Plan Inc. (March 2020)
->
-> Kato, Hiroshi. Director, Shopping District Promotion Cooperatives in Shinmachi Shopping Street(February 2018)
->
-> Kawakami, Mitsuhiko. Professor Emeritus, Kanazawa University (January 2017)
->
-> Kimura, Yoshito. Area Manager, Nagato Yumoto Onsenmachi Inc. (March 2020)
->
-> Kitahara, Keiji. Professor, Hirosaki University (February 2018)
->
-> Matsuoka, Yuji. Nagato City (March 2020)
->
-> Nojima, Shinji. Professor, Fukui University (May 2018)
->
-> Ominami, Shinya. Founding Member, NPO Green Valley (September 2016)
->
-> Tamura, Tomiaki. Director, Economy and Tourism Department, Nagato City (March 2020)
->
-> Toyoda, Masako and Nitta, Goro. Onomichi Akiya Saisei Project (Aki-P; September 2016 and June 2017)
+- Harada, Yoko. Associate Professor, Fukui University (May 2018)
+- Izumi, Hideaki. Representative Director, Heart Beat Plan Inc. (March 2020)
+- Kato, Hiroshi. Director, Shopping District Promotion Cooperatives in Shinmachi Shopping Street(February 2018)
+- Kawakami, Mitsuhiko. Professor Emeritus, Kanazawa University (January 2017)
+- Kimura, Yoshito. Area Manager, Nagato Yumoto Onsenmachi Inc. (March 2020)
+- Kitahara, Keiji. Professor, Hirosaki University (February 2018)
+- Matsuoka, Yuji. Nagato City (March 2020)
+- Nojima, Shinji. Professor, Fukui University (May 2018)
+- Ominami, Shinya. Founding Member, NPO Green Valley (September 2016)
+- Tamura, Tomiaki. Director, Economy and Tourism Department, Nagato City (March 2020)
+- Toyoda, Masako and Nitta, Goro. Onomichi Akiya Saisei Project (Aki-P; September 2016 and June 2017)
 
 ## Note
 
