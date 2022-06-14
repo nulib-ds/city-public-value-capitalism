@@ -21,3 +21,35 @@ figure_list:
     src: figures/11.4.png
     alt: "Web interface showing a map of Sydney and description of the platform"
     caption: "Fig. 11.4: The newly launched Colouring Sydney Platform, as part of the Colouring Cities Research Programme, as novel tool for collecting voluntary geographic information and increasing public participation."
+  - id: "3.1"
+    src: figures/3.1.png
+    alt: "Map of the world marking the 36 smart cities"
+    caption: "36 Smart Cities in the world. Note that some of the initiatives of Pioneer Cities can be seen at the following website. https://globalsmartcitiesalliance.org/?page_id=714"
+  - id: "3.2"
+    src: figures/3.2.png
+    alt: |
+      Utilization of Data in the City:
+      - Energy, water, waste
+      - financial services
+      - autonomous cruising, automatic delivery
+      - education
+      - health, medical, nursing
+      - watching, safety
+      - disaster prevention
+    caption: "Outline of the Smart City"
+  - id: "3.3"
+    src: figures/3.3.png
+    alt:
+    caption: "ZEB Roadmap (Ministry of Economy, Trade and Industry "2018 ZEB Roadmap Follow-up Committee Summary")"
+  - id: "3.4"
+    src: figures/3.4.png
+    alt:
+    caption: "Infrastructure development using VPP will strengthen the region and is expected to be utilized even in areas where infrastructure is not developed in Asia."
+  - id: "3.5"
+    src: figures/3.5.png
+    alt:
+    caption: "Outline of the experimental setting"
+  - id: "3.6"
+    src: figures/3.6.png
+    alt:
+    caption: "Outline of the Water Smart City"
