@@ -39,7 +39,7 @@ params:
   citationPageLocationDivider: ", "
   contributorByline: name-title # name | name-title | false
   displayBiblioShort: true
-  biblioHeading: "Bibliography"
+  biblioHeading: "References"
   imageDir: "img"
   menuClass: brief # brief | list
   prevPageButtonText: "Back"
