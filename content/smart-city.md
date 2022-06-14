@@ -33,9 +33,7 @@ It should be noted as well that Society 5.0 is defined as \"a human-centered soc
 
 As of August 2021, 184 projects are introduced on the Smart City Platform website. The main smart city-related projects promoted by the relevant ministries and agencies include: a) The Social implementation project for near-future technologies by the Cabinet Office; b) the Smart City Promotion Project for data utilization by the Ministry of Internal Affairs and Communications; c) the Regional New "MaaS" (Mobility as a Service) Creation and Promotion Project by the Ministry of Economy; Trade and Industry, d) the Project for the Promotion of New Mobility Services by the Ministry of Land, Infrastructure, Transport and Tourism (MLIT); and e) the Smart City Model Project by the MLIT (see Table 3.2). The number of projects that include transportation as an issue is 158, and 143 projects include tourism and regional revitalization, indicating that smart city initiatives in Japan are mainly focused on transportation issues (MaaS), tourism, and regional revitalization (Table 3.3).
 
-Table 3.1
-
-*Classification of Smart Cities by the MLIT*
+#### Table 3.1: Classification of Smart Cities by the MLIT
 
 |     Category          |     Description                                                                                                                                                                                                                                                                                                                        |
 |-----------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -55,40 +53,34 @@ The SDGs are international goals to be achieved by 2030 as stated in the \"2030 
 
 Goal 11 of the SDGs reads: \"Make cities and human settlements inclusive, safe, resilient and sustainable,\" and indeed the realization of smart cities is deeply related to the achievement of Goal 11. However, the scope of the SDGs is broad, and smart cities are related to all 17 Goals, as well as to 81 targets (MLIT, 2018). The Keidanren (Japan Business Federation) also states that Society 5.0 will contribute significantly to the achievement of SDGs because it is a new growth model that combines problem solving and future innovations. Since smart cities are the places where Society 5.0 will be demonstrated, the realization and implementation of smart cities is essential to the achievement of the SDGs.
 
-Table 3.2
+#### Table 3.2: Number of Projects by Project Aim
 
-*Number of Projects by Project Aim*
+|     Project Name                                                  |     Number of Projects    |
+|-------------------------------------------------------------------|---------------------------|
+|     Social implementation project for near-future technologies    |     34                    |
+|     Smart City Promotion Project for data utilization             |     18                    |
+|     Regional New MaaS Creation Promotion Project                  |     29                    |
+|     The Project for the Promotion of New Mobility Services        |     57                    |
+|     The Smart City Model Project                                  |     45                    |
+|     MLIT Smart Island Promotion Demonstration Survey              |     1                     |
+|     Total                                                         |     184                   |
 
------------------------------------------------------------- ------------------------
-**Project Name**                                             **Number of Projects**
-Social implementation project for near-future technologies   34
-Smart City Promotion Project for data utilization            18
-Regional New MaaS Creation Promotion Project                 29
-The Project for the Promotion of New Mobility Services       57
-The Smart City Model Project                                 45
-MLIT Smart Island Promotion Demonstration Survey             1
-Total                                                        184
------------------------------------------------------------- ------------------------
+#### Table 3.3: Number of Smart City Projects in Japan by Issue Category (Multiple Answers Permitted)
 
-Table 3.3
-
-*Number of Smart City Projects in Japan by Issue Category (Multiple Answers Permitted)*
-
--------------------------------------------------- ------------------------
-**Classification of Issues**                       **Number of Projects**
-Transportation and Mobility                        158
-Energy                                             22
-Disaster Prevention                                36
-Maintenance and Management of Infrastructure       38
-Tourism and Regional Revitalization                143
-Well-Being and Medical                             48
-Agriculture, Forestry, and Fishery                 17
-Environment                                        17
-Safety, Security, and Surveillance                 21
-Logistics                                          31
-Urban Planning and Development                     18
-Total Number of Projects                           184
--------------------------------------------------- ------------------------
+|     Classification of Issues                        |     Number of Projects    |
+|-----------------------------------------------------|---------------------------|
+|     Transportation and Mobility                     |     158                   |
+|     Energy                                          |     22                    |
+|     Disaster Prevention                             |     36                    |
+|     Maintenance and Management of Infrastructure    |     38                    |
+|     Tourism and Regional Revitalization             |     143                   |
+|     Well-Being and Medical                          |     48                    |
+|     Agriculture, Forestry, and Fishery              |     17                    |
+|     Environment                                     |     17                    |
+|     Safety, Security, and Surveillance              |     21                    |
+|     Logistics                                       |     31                    |
+|     Urban Planning and Development                  |     18                    |
+|     Total Number of Projects                        |     184                   |
 
 !\[Fig. 3.2. Outline of the Smart City.\](figure 3-2.png)
 
