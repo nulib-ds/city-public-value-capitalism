@@ -377,9 +377,96 @@ entries:
   - id: ""
     full: |
       Takahashi, T. et al. (2015). War Damage and Earthquake Reconstruction Plan of Fukui and Tasaburo Kumagai, *Journal of Japan Society of Civil Engineers*. *11*, 109-118. http://library.jsce.or.jp/jsce/open/00897/2015/11-0109.pdf
-  - id: ""
+  - id: "" # missing from chapter 5
     full: |
       Toyoda, M. (2016). Practice of Area Renovation―Old Urban District in Onomichi, *Area Renovation*, Kyoto: Gakugei Shuppansha. (written in Japanese as Area Innovation no Jissen.)
   - id: "Yokoo, 1987"
     full: |
       Yokoo, M. (1987). The Historical Implications of the Land Use Pattern of Hirosaki, Annals of the Tohoku Geography, *39*(4), 302-315. https://doi.org/10.5190/tga1948.39.302
+  - id: "Ardoin, 2014"
+    full: |
+      Ardoin, N. M. (2014). Exploring Sense of Place and Environmental Behavior at an Ecoregional Scale in Three Sites. *Human Ecology, 42*(3), 425--441.
+  - id: "Bonney et al., 2015"
+    full: |
+      Bonney, R., Phillips, T. B., Ballard, H. L., & Enck, J. W. (2015). Can Citizen Science Enhance Public Understanding of Science? *Public Understanding of Science, 25*(1), 2--16. https://doi.org/10.1177/0963662515607406
+  - id: "Campbell and Wiesen, 2009"
+    full: |
+      Campbell, L., & Wiesen, A. (Eds.). (2009). *Restorative Commons: Creating Health and Well-being through Urban Landscapes*. USDA Forest Service.
+  - id: "Chen et al., 2020"
+    full: |
+      Chen, Y., Zhu, M., Lu, J., Zhou, Q., & Ma, W. (2020). Evaluation of Ecological City and Analysis of Obstacle Factors Under the Background of High-Quality Development: Taking Cities in the Yellow River Basin as Examples. *Ecological Indicators, 118*, 106771.
+  - id: "CNC 2021" 
+    full: |
+      City Nature Challenge (CNC). (2021). City Nature Challenge. Retrieved July 13, 2021, from https://citynaturechallenge.org/
+  - id: "City of Yokohama, 2014"
+    full: |
+      City of Yokohama. (2014). Population News No. 1050 (February 1, 2014). Retrieved February 18, 2014, from \<http://www.city.yokohama.lg.jp/ex/stat/jinko/news-e.html\> (in Japanese).
+  - id: ""
+    full: |
+      Dickinson, J. L, & Bonney, R. (Eds.). (2012). *Citizen Science: Public participation in Environmental Research.* Cornell University Press.
+  - id: "Hill, 2008"
+    full: |
+      Hill, C.M. (2008). Working with Communities to Achieve Conservation Goals. In M. J. Manfredo, J. J. Vaske, P. J. Brown, D. J. Decker, E. A. Duke (Eds.), *Wildlife and Society: The Science of Human Dimensions* (pp. 117--1280). Island Press.
+  - id: "Jordan et al., 2011"
+    full: |
+      Jordan, R. C., Gray, S. A., Howe, D. V., Brooks, W. R., & Ehrenfeld, J. G. (2011). Knowledge Gain and Behavioral Change in Citizen Science Programs. *Conservation Biology, 25*(6), 1148--1154.
+  - id: "Jorgensen & Stedman, 2001"
+    full: |
+      Jorgensen, B. S., & Stedman, R. C. (2001). Sense of Place as an Attitude: Lakeshore Owners' Attitudes Toward their Properties. *Journal of Environmental Psychology, 21*, 233--248.
+  - id: "Kishimoto and Kobori, 2020"
+    full: |
+      Kishimoto, K., & Kobori, H. (2021). COVID-19 Pandemic Drives Changes in Participation in Citizen Science Project "City Nature Challenge" in Tokyo. *Biological Conservation, 255*, 109001. https://doi.org/10.1016/j.biocon.2021.109001
+  - id: "Kobori et al., 2016"
+    full: |
+      Kobori, H., Dickinson, J. L., Washitani, I., Sakurai, R., Amano, T., Komatsu, N., Kitamura, W., Takagawa, S., Koyama, K., Ogawara, T., & Miller-Rushing, A. J. (2016). Citizen Science: A New Approach to Advance Ecology, Education, and Conservation. *Ecological Research, 31*(1), 1--19.
+  - id: "Krasny et al., 2014"
+    full: |
+      Krasny, M.E., Russ, A., Tidball, K.G., & Elmqvist, T. (2014). Civic Ecology Practices: Participatory Approaches to Generating and Measuring Ecosystem Services in Cities. *Ecosystem Services, 7*, 177--186.
+  - id: "Krasny, 2020"
+    full: |
+      Krasny, M. E. (2020). *Advancing Environmental Education Practice*. Cornell University Press.
+  - id: "Miller & Spoolman, 2016"
+    full: |
+      Miller, G. T., & Spoolman. S. E. (2015). *Living in the Environment* (18th ed.). Cengage Learning.
+  - id: "Ministry of the Environment, 2001"
+    full: |
+      Ministry of the Environment. (2001). *Research and Analysis of Satochi Satoyama in Japan* (mid-term report). (In Japanese). Retrieved September 7, 2021, from http://www.env.go.jp/nature/satoyama/satoyamachousa.html
+  - id: "Oke et al., 2021"
+    full: |
+      Oke, C., Bekessy, S. A., Frantzeskaki, N., Bush, J., Fitzsimouns, J. A., Garrard, G. E., Grenfell, M., Harrison, L., Hartigan, M., Callow, D., Cotter, B., & Gawler, S. (2021). Cities Should Respond to the Biodiversity Extinction Crisis. *Urban Sustainability 1*(1),1--4. https://doi.org/10.1038/s42949-020-00010-w.
+  - id: "Owen, 2010"
+    full: |
+      Owen, J. (2010). *Wildlife of a Garden: A thirty-year Study*. Royal Horticultural Society.
+  - id: "Primack & Kobori, 2008"
+    full: |
+      Primack, R. B., & Kobori, H. (2008). *Introduction to Conservation Biology. Interdisciplinary approach for biological conservation* (2nd Ed.). Tokyo: Bun-ichi Sogo Shuppan. (in Japanese).
+  - id: "Sakurai et al., 2015a"
+    full: |
+      Sakurai, R., Kobori, H., Kikuchi, T., & Nakamura, M. (2015a). Opinion gaps and Consensus Building Between Members of the Association for Community Development Embracing  Flowers and Greenery Based on their Positions: From Qualitative and Quantitative Studies. *People and Environment 41*(1), 40--47.
+  - id: "Sakurai et al., 2015b"
+    full: |
+      Sakurai, R., Kobori, H., Nakamura, M., & Kikuchi, T. (2015b). Factors Influencing Public Participation in Conservation Activities in Urban Areas: A Case Study in Yokohama, Japan. *Biological Conservation, 184*, 424--430.
+  - id: "Sakurai et al., 2016"
+    full: |
+      Sakurai, R., Kobori, H., Nakamura, M., & Kikuchi, T. (2016). Influence of Residents' Social Interactions in and Affections Toward their Community on their Willingness to Participate in Greening Activities. *Environmental Science, 29*(3),137--146. (in Japanese with English abstract).
+  - id: "Sakurai et al., 2022"
+    full: |
+      Sakurai, R., Kobori, H., Togane, D., Higgins, L., Young, A., Kishimoto, K., Agnello, G., Cutajar, S., & Ham, Y. (2022). A case study from the City Nature Challenge 2018: international comparison of participants' responses to citizen science in action. *Biodiversity*. Advance online publication, https://doi.org/10.1080/14888386.2022.2054860
+  - id: "Stedman, 2002"
+    full: |
+      Stedman, R. C. (2002). Toward a Social Psychology of Place: Predicting Behaviors from Place-based Cognition, Attitude, and Identity. *Environment and Behavior, 34*, 561--581.
+  - id: "Tan et al., 2017"
+    full: |
+      Tan, G. C. I., Lee, J. C., Chang, T., & Kim, C. (2017). 3: Four Asian Tigers. In A. Russ, & M. E Krasny. (Eds.), *Urban Environmental Education Review* (pp. 31--38). Cornell University Press.
+  - id: "United Nations 2021"
+    full: |
+      United Nations. (2021). The 17 Goals. Retrieved October 4, 2021, from https://sdgs.un.org/goals
+  - id: "Van et al., 2019"
+    full: |
+      Van, S., Cheremisin, A., Glinushkiin, A., Krasnoshchekov, V., Davydov, R., & Yushkova, V. (2019). Application of new Architectural and Planning Solutions to Create an Ecological City (on the Example of Shanghai, China). In *E3S Web of Conferences*, 140, 09008. https://doi.org/10.1051/e3sconf/201914009008.
+  - id: "Yokohama Environmental Planning Bureau, 2013"
+    full: |
+      Yokohama Environmental Planning Bureau (2013). Yokohama Green-Up Plan. City of Yokohama: Yokohama (in Japanese).
+  - id: "Youngentob and Hostetler, 2005"
+    full: |
+      Youngentob, K., & Hostetler, M. (2005). Is a New Urban Development Model Building Greener Communities? *Environmental Behavior*, *37*, 731--759.
