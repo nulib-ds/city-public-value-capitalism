@@ -33,7 +33,9 @@ Interviews were conducted with the seven resident committees (out of ten) and th
 
 The results of a data mining analysis also revealed differences in the language used by the resident and university committees in the interviews (Table 5.1). Resident committees used words like "flower," "kids," and "beautiful" more often, while university committees used words like "wildlife" and "know" more frequently. The results of these interviews were later shared with committee members, which gave them the opportunity to realize the differences in perception between resident and university committees and address how to overcome such differences and collaborate more effectively ({{< q-cite "Sakurai et al., 2015a" >}}).
 
-**Table 5.1a: Resident Committee - *Words frequently Mentioned by Members of "Association of Flowers and Greening" Committee in Ushikubo Nishi District (Source: revised from Sakurai et al., 2015a)***
+### Table 5.1: *Words frequently Mentioned by Members of "Association of Flowers and Greening" Committee in Ushikubo Nishi District (Source: revised from Sakurai et al., 2015a)*
+
+**Resident Committee**
 
 |     Ranking |     Words          |     Jaccard  |     Frequencies    |     Words appeared per individual |
 |-------------|--------------------|--------------|--------------------|-----------------------------------|
@@ -48,7 +50,7 @@ The results of a data mining analysis also revealed differences in the language 
 |     9       |     Association    |     0.030    |     23             |     3.3                           |
 |     10      |     New            |     0.028    |     21             |     3.0                           |
 
-**Table 5.1b: University Committee - *Words frequently Mentioned by Members of "Association of Flowers and Greening" Committee in Ushikubo Nishi District (Source: revised from Sakurai et al., 2015a)***
+**University Committee**
 
 |     Ranking |     Words         |     Jaccard  |     Frequencies |     Words appeared per individual |
 |-------------|-------------------|--------------|-----------------|-----------------------------------|
@@ -67,7 +69,7 @@ Therefore, in order to implement participatory greening projects, citizens' dema
 
 Based on a multiple regression analysis, the results revealed that the strongest factors affecting residents' willingness to participate in "creating community greenery or biotopes" and "planting along streets" were their perceptions of whether the "greening project will enhance social interaction among residents" (Table 5.2). This had a stronger effect on resident motivation than the question of whether residents enjoyed taking care of greenery. Similarly, structural equation modeling was conducted using the same data to determine the factors that affect residents' willingness to participate in greening activities. The results revealed that, in addition to residents' willingness to improve aesthetic beauty by planting flowers and greenery, their level of interaction with neighbors affected their willingness to join in the activities (Fig. 5.1).
 
-**Table 5.2: *Multiple Regression Analysis with Greening Activities as Dependent Variables and Socio-Demographic and Cognitive Factors as Independent Variables. \[B=standardized coefficient\] (Source: Sakurai et al., 2015b)***
+### Table 5.2: *Multiple Regression Analysis with Greening Activities as Dependent Variables and Socio-Demographic and Cognitive Factors as Independent Variables. \[B=standardized coefficient\] (Source: {{< q-cite "Sakurai et al., 2015b" >}})*
 
 |     Creating community gardens or biotopes                                              |     B         |     p        |     VIF      |     R2    | Adjusted R2    |
 |-----------------------------------------------------------------------------------------|---------------|--------------|--------------|-----------|----------------|
@@ -121,4 +123,4 @@ If planners only look at the ecological aspects and concentrate on restoring nat
 
 ## Acknowledgments
 
-The second section of this chapter "A Case Study for Conserving and Restoring Biodiversity in Residential Areas" is written based on the results of three studies that were published in {{< q-cite "Sakurai, et al., 2015a" >}}, {{< q-cite "Sakurai, et al., 2015b" " " "2015b" >}}, and {{< q-cite "Sakurai, et al., 2015b" " " "2016" >}}, and I would like to thank the coauthors of those papers: Hiromi Kobori, Masako Nakamura, and Takahiro Kikuchi. The third section of this chapter "Citizen Science and the City Nature Challenge" is written based on the results of the study that was published in {{< q-cite "Sakurai et al., 2022" >}}, and I would like to thank the coauthors of this paper: Hiromi Kobori, Dai Togane, Lila Higgins, Alison Young, Keidai Kishimoto, Gaia Agnello, Simone Cutajar, and Young-sik Ham. In particular, I would like to thank Hiromi Kobori (Professor Emeritus at Tokyo City University) for inviting me to review the Ushikubo Nishi District and CNC projects, and for helping me conduct the research.
+The second section of this chapter "A Case Study for Conserving and Restoring Biodiversity in Residential Areas" is written based on the results of three studies that were published in {{< q-cite "Sakurai et al., 2015a" >}}, {{< q-cite "Sakurai et al., 2015b" " " "2015b" >}}, and {{< q-cite "Sakurai et al., 2016" " " "2016" >}}, and I would like to thank the coauthors of those papers: Hiromi Kobori, Masako Nakamura, and Takahiro Kikuchi. The third section of this chapter "Citizen Science and the City Nature Challenge" is written based on the results of the study that was published in {{< q-cite "Sakurai et al., 2022" >}}, and I would like to thank the coauthors of this paper: Hiromi Kobori, Dai Togane, Lila Higgins, Alison Young, Keidai Kishimoto, Gaia Agnello, Simone Cutajar, and Young-sik Ham. In particular, I would like to thank Hiromi Kobori (Professor Emeritus at Tokyo City University) for inviting me to review the Ushikubo Nishi District and CNC projects, and for helping me conduct the research.
