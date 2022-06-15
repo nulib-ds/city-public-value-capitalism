@@ -4,6 +4,82 @@ figure_list:
     alt: "Quandrant 1 (success and success) contains both community and market"
     caption: "Fig. 1.1: Quadrant of Policy Effects of Municipalities"
     credit: "(Source: Adapted and modified from Bozeman, B. 2007)"
+  - id: "2.1"
+    src: figures/2.1.png
+    alt:
+    caption: "Fig. 2.1: The framework for measuring well-being and progress"
+    credit:
+  - id: "2.2"
+    src: figures/2.2.png
+    alt:
+    caption: "Fig. 2.2: Shrinking Cities and their diverse policies"
+  - id: "3.1"
+    src: figures/3.1.png
+    alt: "Map of the world marking the 36 smart cities"
+    caption: "Fig. 3.1: 36 Smart Cities in the world. Note that some of the initiatives of Pioneer Cities can be seen at the following website. https://globalsmartcitiesalliance.org/?page_id=714"
+  - id: "3.2"
+    src: figures/3.2.png
+    alt: |
+      Utilization of Data in the City:
+      - Energy, water, waste
+      - financial services
+      - autonomous cruising, automatic delivery
+      - education
+      - health, medical, nursing
+      - watching, safety
+      - disaster prevention
+    caption: "Fig 3.2: Outline of the Smart City"
+  - id: "3.3"
+    src: figures/3.3.png
+    alt:
+    caption: |
+      Fig. 3.3: ZEB Roadmap (Ministry of Economy, Trade and Industry "2018 ZEB Roadmap Follow-up Committee Summary")
+  - id: "3.4"
+    src: figures/3.4.png
+    alt:
+    caption: "Fig. 3.4: Infrastructure development using VPP will strengthen the region and is expected to be utilized even in areas where infrastructure is not developed in Asia."
+  - id: "3.5"
+    src: figures/3.5.png
+    alt:
+    caption: "Fig. 3.5:Outline of the experimental setting"
+  - id: "3.6"
+    src: figures/3.6.png
+    alt:
+    caption: "Fig. 3.6: Outline of the Water Smart City"
+  - id: "4.1"
+    src: figures/4.1.png
+    alt:
+    caption: "Fig. 4.1: Locations of the Selected Cases"
+  - id: "5.1"
+    src: figures/5.1.png
+    alt:
+    caption: |
+      Fig 5.1: Result of structural equation modeling \[*n*=398, *X^2^*=189.368, *p*\<0.001, *GFI*=0.93, *AGFI*=0.89, *RMSEA*=0.08; all values are at standardized coefficient (*p*\<0.01)
+    credit: "Source: revised from Sakurai et al. 2016"
+  - id: "5.2"
+    src: figures/5.2.png
+    caption: "Fig. 5.2. Citizens Participating in CNC and Observing Wildlife in Tokyo in 2021"
+    credit: "Photo taken by the author"
+  - id: "5.3"
+    src: figures/5.3.png
+    caption: "Fig. 5.3. Results of open-ended questions on what the participants enjoyed most in the activities. (Japan: *n*=113, World cities: *n*=239)"
+  - id: "6.1"
+    src: figures/6.1.png
+    caption: "Fig. 6.1. Identity groups and evidence-based inclusion policy."
+    alt:
+  - id: "6.2"
+    src: figures/6.2.png
+    caption: "Fig. 6.2. Key elements of inclusive city policy."
+    alt:
+    credit: "Modified from Anttiroiko & de Jong, 2020, p. 67"
+  - id: "6.3"
+    src: figures/6.3.png
+    caption: "Fig. 6.3. The ladder of stakeholder value creation."
+    credit: "Modified from Anttiroiko & de Jong, 2020, p. 84."
+  - id: "6.4"
+    src: figures/6.4.png
+    caption: "Fig. 6.4. Three aspects of economic inclusion: skills, finance, and services."
+    credit: "Adapted from Anttiroiko & de Jong, 2020, p. 71"
   - id: "11.1"
     src: figures/11.1.png
     alt: "Bar graph that shows an increase in housing costs as a percentage of income"
@@ -21,40 +97,4 @@ figure_list:
     src: figures/11.4.png
     alt: "Web interface showing a map of Sydney and description of the platform"
     caption: "Fig. 11.4: The newly launched Colouring Sydney Platform, as part of the Colouring Cities Research Programme, as novel tool for collecting voluntary geographic information and increasing public participation."
-  - id: "3.1"
-    src: figures/3.1.png
-    alt: "Map of the world marking the 36 smart cities"
-    caption: "36 Smart Cities in the world. Note that some of the initiatives of Pioneer Cities can be seen at the following website. https://globalsmartcitiesalliance.org/?page_id=714"
-  - id: "3.2"
-    src: figures/3.2.png
-    alt: |
-      Utilization of Data in the City:
-      - Energy, water, waste
-      - financial services
-      - autonomous cruising, automatic delivery
-      - education
-      - health, medical, nursing
-      - watching, safety
-      - disaster prevention
-    caption: "Outline of the Smart City"
-  - id: "3.3"
-    src: figures/3.3.png
-    alt:
-    caption: |
-      ZEB Roadmap (Ministry of Economy, Trade and Industry "2018 ZEB Roadmap Follow-up Committee Summary")
-  - id: "3.4"
-    src: figures/3.4.png
-    alt:
-    caption: "Infrastructure development using VPP will strengthen the region and is expected to be utilized even in areas where infrastructure is not developed in Asia."
-  - id: "3.5"
-    src: figures/3.5.png
-    alt:
-    caption: "Outline of the experimental setting"
-  - id: "3.6"
-    src: figures/3.6.png
-    alt:
-    caption: "Outline of the Water Smart City"
-  - id: "4.1"
-    src: figures/4.1.png
-    alt:
-    caption: "Locations of the Selected Cases"
+  
