@@ -33,33 +33,35 @@ Interviews were conducted with the seven resident committees (out of ten) and th
 
 The results of a data mining analysis also revealed differences in the language used by the resident and university committees in the interviews (Table 5.1). Resident committees used words like "flower," "kids," and "beautiful" more often, while university committees used words like "wildlife" and "know" more frequently. The results of these interviews were later shared with committee members, which gave them the opportunity to realize the differences in perception between resident and university committees and address how to overcome such differences and collaborate more effectively ({{< q-cite "Sakurai et al., 2015a" >}}).
 
-**Table 5.1: *Words frequently Mentioned by Members of "Association of Flowers and Greening" Committee in Ushikubo Nishi District (Source: revised from Sakurai et al., 2015a)***
+**Table 5.1a: Resident Committee - *Words frequently Mentioned by Members of "Association of Flowers and Greening" Committee in Ushikubo Nishi District (Source: revised from Sakurai et al., 2015a)***
 
-  ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                **Resident committee**                                                                       **University committee**                                   
-  ------------- ------------------------ ------------- ----------------- ----------------------------------- -------------------------- ------------- ----------------- -----------------------------------
-  **Ranking**   **Words**                **Jaccard**   **Frequencies**   **Words appeared per individual**   **Words**                  **Jaccard**   **Frequencies**   **Words appeared per individual**
+|     Ranking |     Words          |     Jaccard  |     Frequencies    |     Words appeared per individual |
+|-------------|--------------------|--------------|--------------------|-----------------------------------|
+|     1       |     Flower         |     0.073    |     57             |     8.1                           |
+|     2       |     Enter          |     0.064    |     48             |     6.9                           |
+|     3       |     District       |     0.055    |     41             |     5.9                           |
+|     4       |     Age            |     0.046    |     36             |     5.1                           |
+|     5       |     Make           |     0.043    |     34             |     4.9                           |
+|     6       |     Plant          |     0.040    |     31             |     4.4                           |
+|     7       |     Kids           |     0.039    |     31             |     4.4                           |
+|     8       |     Beautiful      |     0.034    |     29             |     4.1                           |
+|     9       |     Association    |     0.030    |     23             |     3.3                           |
+|     10      |     New            |     0.028    |     21             |     3.0                           |
 
-  1             Flower                   0.073         57                8.1                                 Wildlife                   0.139         31                10.3
+**Table 5.1b: University Committee - *Words frequently Mentioned by Members of "Association of Flowers and Greening" Committee in Ushikubo Nishi District (Source: revised from Sakurai et al., 2015a)***
 
-  2             Enter                    0.064         48                6.9                                 Greenery                   0.135         42                14.0
-
-  3             District                 0.055         41                5.9                                 Think                      0.134         46                6.6
-
-  4             Age                      0.046         36                5.1                                 People                     0.128         39                13.0
-
-  5             Make                     0.043         34                4.9                                 Plan                       0.112         25                8.3
-
-  6             Plant                    0.040         31                4.4                                 University                 0.109         26                8.7
-
-  7             Kids                     0.039         31                4.4                                 Know                       0.102         21                7.0
-
-  8             Beautiful                0.034         29                4.1                                 Greening                   0.083         20                6.7
-
-  9             Association              0.030         23                3.3                                 Many                       0.081         16                5.3
-
-  10            New                      0.028         21                3.0                                 Have                       0.080         16                5.3
-  ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+|     Ranking |     Words         |     Jaccard  |     Frequencies |     Words appeared per individual |
+|-------------|-------------------|--------------|-----------------|-----------------------------------|
+|     1       |     Wildlife      |     0.139    |     31          |     10.3                          |
+|     2       |     Greenery      |     0.135    |     42          |     14.0                          |
+|     3       |     Think         |     0.134    |     46          |     6.6                           |
+|     4       |     People        |     0.128    |     39          |     13.0                          |
+|     5       |     Plan          |     0.112    |     25          |     8.3                           |
+|     6       |     University    |     0.109    |     26          |     8.7                           |
+|     7       |     Know          |     0.102    |     21          |     7.0                           |
+|     8       |     Greening      |     0.083    |     20          |     6.7                           |
+|     9       |     Many          |     0.081    |     16          |     5.3                           |
+|     10      |     Have          |     0.080    |     16          |     5.3                           |
 
 Therefore, in order to implement participatory greening projects, citizens' demands and perceptions need to be considered. A survey was conducted among the residents of Ushikubo Nishi District (a total of 810 households registered in the district's residents' association) to understand what kind of activities were expected or desired by the residents. Two questionnaires were distributed to each household so that two family members could answer them: one who was interested in greening/planting and another who was not. After distribution of the survey in August 2013, 544 questionnaires from 274 households were returned. (The details of the results of this survey are published in {{< q-cite "Sakurai et al., 2015b" >}} and {{< q-cite "Sakurai et al., 2016" " " "2016" >}}.)
 
@@ -67,33 +69,21 @@ Based on a multiple regression analysis, the results revealed that the strongest
 
 **Table 5.2: *Multiple Regression Analysis with Greening Activities as Dependent Variables and Socio-Demographic and Cognitive Factors as Independent Variables. \[B=standardized coefficient\] (Source: Sakurai et al., 2015b)***
 
-  ------------------------------------------------------------------------------------- --------- --------- --------- ------------ ---------------------
-                                                                                        ***B***   ***p***   **VIF**   ***R^2^***   **Adjusted *R^2^***
+|     Creating community gardens or biotopes                                              |     B         |     p        |     VIF      |     R2    | Adjusted R2    |
+|-----------------------------------------------------------------------------------------|---------------|--------------|--------------|-----------|----------------|
+|     A greening project will enhance social interactions among residents                 |     0.245     |     0.001    |     1.351    | 0.256     | 0.241          |
+|     Residents should collaborate in maintaining the natural environment of the district |     0.223     |     0.003    |     1.527    | 0.256     | 0.241          |
+|     I take care of greenery in a garden and/or around my house                          |     -0.202    |     0.006    |     1.434    | 0.256     | 0.241          |
+|     I enjoy taking care of greenery                                                     |     0.258     |     0.001    |     1.592    | 0.256     | 0.241          |
 
-  **Creating community gardens or biotopes**                                                                                       
-
-  A greening project will enhance social interactions among residents                   0.245     0.001     1.351     0.256        0.241
-
-  Residents should collaborate in maintaining the natural environment of the district   0.223     0.003     1.527                  
-
-  I take care of greenery in a garden and/or around my house                            -0.202    0.006     1.434                  
-
-  I enjoy taking care of greenery                                                       0.258     0.001     1.592                  
-
-  **Planting along streets**                                                                                                       
-
-  A greening project will enhance social interactions among residents                   0.248     \<0.001   1.374     0.355        0.336
-
-  I enjoy taking care of greenery                                                       0.206     0.004     1.553                  
-
-  Taking care of greenery is troublesome                                                -0.166    0.009     1.226                  
-
-  Residents should collaborate in maintaining the natural environment of the district   0.219     0.002     1.534                  
-
-  I know the Green Community Development Project                                        -0.163    0.007     1.115                  
-
-  There are plenty of flowers in the district                                           -0.117    0.044     1.035                  
-  ------------------------------------------------------------------------------------- --------- --------- --------- ------------ ---------------------
+| Planting along streets                                                                       |     B         |     p         |     VIF      |     R2    | Adjusted R2    |
+|----------------------------------------------------------------------------------------------|---------------|---------------|--------------|-----------|----------------|
+|     A greening project will enhance social interactions   among residents                    |     0.248     |     <0.001    |     1.374    | 0.355     | 0.336          |
+|     I enjoy taking care of greenery                                                          |     0.206     |     0.004     |     1.553    | 0.355     | 0.336          |
+|     Taking care of greenery is troublesome                                                   |     -0.166    |     0.009     |     1.226    | 0.355     | 0.336          |
+|     Residents should collaborate in maintaining the   natural environment of the district    |     0.219     |     0.002     |     1.534    | 0.355     | 0.336          |
+|     I know the Green Community Development Project                                           |     -0.163    |     0.007     |     1.115    | 0.355     | 0.336          |
+|     There are plenty of flowers in the district                                              |     -0.117    |     0.044     |     1.035    | 0.355     | 0.336          |
 
 {{< q-figure id="5.1" >}}
 
