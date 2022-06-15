@@ -40,7 +40,8 @@ figure_list:
   - id: "3.3"
     src: figures/3.3.png
     alt:
-    caption: "ZEB Roadmap (Ministry of Economy, Trade and Industry "2018 ZEB Roadmap Follow-up Committee Summary")"
+    caption: |
+      ZEB Roadmap (Ministry of Economy, Trade and Industry "2018 ZEB Roadmap Follow-up Committee Summary")
   - id: "3.4"
     src: figures/3.4.png
     alt:
