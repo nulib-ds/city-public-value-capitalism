@@ -7,9 +7,7 @@ contributor:
   - id: hmori
 abstract:
 type: page
-class:
 weight: 101
-slug:
 ---
 
 ## Cities and the Capitalist Economy

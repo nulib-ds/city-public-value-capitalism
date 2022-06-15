@@ -5,11 +5,8 @@ title: Building an Inclusive City
 short_title: Inclusive City
 contributor:
   - id: aanttiroiko
-abstract:
 type: page
-class:
 weight: 106
-slug:
 ---
 
 ## Introduction

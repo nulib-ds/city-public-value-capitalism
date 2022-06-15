@@ -1,16 +1,11 @@
 ---
 label: '3'
 title: Smart City
-#subtitle: From Global Cites to Civic Cities
-short_title: Smart City
 contributor:
   - id: tchikamoto
   - id: tshimizu
-abstract:
 type: page
-class:
 weight: 103
-slug:
 ---
 
 ## What is a "Smart City"？

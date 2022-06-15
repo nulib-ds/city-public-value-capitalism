@@ -1,16 +1,12 @@
 ---
 label: '7'
 title: Restorative Cities as Regulatory Governance
-#subtitle: From Global Cites to Civic Cities
 short_title: Restorative Cities
 contributor:
   - id: vtaylor
   - id: mivec
-abstract:
 type: page
-class:
 weight: 107
-slug:
 ---
 
 ## Introduction: the Restorative City

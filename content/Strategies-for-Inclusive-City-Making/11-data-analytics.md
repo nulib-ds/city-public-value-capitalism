@@ -7,11 +7,8 @@ contributor:
   - id: mng
   - id: cpettit
   - id: bsoundararaj
-abstract:
 type: page
-class:
 weight: 111
-slug:
 ---
 
 ## Introduction

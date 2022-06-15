@@ -1,7 +1,6 @@
 ---
 label: '4'
 title: Practices of Japanese Local Cities Coping with Population Decline
-#subtitle: From Global Cites to Civic Cities
 short_title: Population Decline
 contributor:
   - id: kkaido
@@ -9,11 +8,8 @@ contributor:
   - id: yfujii
   - id: mmatsuyuki
   - id: tyoshida
-abstract:
 type: page
-class:
 weight: 104
-slug:
 ---
 
 ## Introduction

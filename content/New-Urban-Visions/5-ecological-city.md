@@ -5,11 +5,8 @@ subtitle: With a Specific Focus on Participatory Biological Conservation
 short_title: Ecological City
 contributor:
   - id: rsakurai
-abstract:
 type: page
-class:
 weight: 105
-slug:
 ---
 
 ## The Meaning of Biodiversity Conservation in and around Cities

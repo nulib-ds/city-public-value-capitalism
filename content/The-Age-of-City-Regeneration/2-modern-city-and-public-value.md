@@ -2,15 +2,12 @@
 label: '2'
 title: Public Value in the Late Modern City
 subtitle: From Global Cites to Civic Cities
-short_title: Public Value
+short_title: Modern City and Public Value
 contributor:
   - id: hmori
   - id: aanttiroiko
-abstract:
 type: page
-class:
 weight: 102
-slug:
 ---
 
 ## Introduction
