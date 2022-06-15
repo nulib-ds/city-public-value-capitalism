@@ -10,6 +10,7 @@ contributor:
   - id: tyoshida
 type: page
 weight: 104
+slug: population-decline
 ---
 
 ## Introduction

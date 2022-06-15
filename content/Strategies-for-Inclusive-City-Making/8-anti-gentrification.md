@@ -7,4 +7,5 @@ contributor:
   - id: aanttiroiko
 type: page
 weight: 108
+slug: gentrification
 ---

@@ -7,6 +7,7 @@ contributor:
   - id: aanttiroiko
 type: page
 weight: 106
+slug: inclusive-city
 ---
 
 ## Introduction
@@ -79,7 +80,7 @@ Practically all holistic inclusion schemes attend to people's stakes, contributi
 
 The construction of an inclusive city must have a foundation in the local institutional and cultural setting. Therefore, the precondition for building an inclusive city is poverty alleviation, inclusive infrastructures, and the provision of a supportive institutional framework. When targeted initiatives for supporting, enabling, integrating, and empowering people are introduced with the support of physical, institutional, and social infrastructures, they have better chances to bring about sustainable results. Finally, the strategic actions that support urban value creation can be grouped into three core areas: (a) access to skills and employment; (b) entrepreneurship and access to finance; and (c) access to services that enhance economic opportunities (EBRD, 2017). These three points form the operational core of the support for local value creation, and this core can be extended to a broader set of grassroots-level value enhancement practices that harness diverse capitals and potentials from people and communities for the purposes of value creation. Ultimately, inclusive policy should create an environment that is conducive to entrepreneurship ({{< q-cite "Acs & Stough, 2008" >}}) and to the creation of an inclusive capitalism ({{< q-cite "de Jong, 2021" >}})---this is illustrated in Fig. 6.4.
 
-{{< q-figures id="6.4" >}}
+{{< q-figure id="6.4" >}}
 
 The above model is a conceptual scheme that highlights the most vital elements of urban economic inclusion policy. Specific actions depend on the situation and features of each community, which may vary from cities operating within a welfare-society framework, to those affected by municipalism or progressive movements, to ones that are undergoing profound industrial restructuring ({{< q-cite "Anttiroiko & de Jong, 2020" >}}). Approaches that exemplify citizen-centric economic inclusion include self-employment and working-class entrepreneurialism ({{< q-cite "Birelma, 2019" >}}), microbusiness, family business, and home-based business ({{< q-cite "Houston & Reuschke, 2017" >}}), popular economy ({{< q-cite "Gago, 2018" >}}), social and solidarity economy ({{< q-cite "Mendell, 2014" >}}), and a range of special forms of entrepreneurship, such as senior, youth, academic, women, LGBTQ+, social, green, minority, ethnic, indigenous, immigrant, informal, prison, and disability entrepreneurship ({{< q-cite "Cooney, 2021" >}}; {{< q-cite "Cederberg & Villares-Varela, 2019" >}}). All of these incorporate entrepreneurship into various domains of community life in their own ways. Such approaches serve as bridges between social and economic spheres of urban life and form an important supplementary side of urban economic inclusion.
 

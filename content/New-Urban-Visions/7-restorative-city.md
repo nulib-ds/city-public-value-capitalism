@@ -7,6 +7,7 @@ contributor:
   - id: mivec
 type: page
 weight: 107
+slug: restorative-cities
 ---
 
 ## Introduction: the Restorative City

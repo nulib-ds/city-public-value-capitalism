@@ -6,6 +6,7 @@ contributor:
   - id: tshimizu
 type: page
 weight: 103
+slug: smart-city
 ---
 
 ## What is a "Smart City"？

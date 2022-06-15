@@ -9,6 +9,7 @@ contributor:
   - id: bsoundararaj
 type: page
 weight: 111
+slug: digital-transformations
 ---
 
 ## Introduction

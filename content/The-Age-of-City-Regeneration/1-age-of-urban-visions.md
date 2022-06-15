@@ -8,6 +8,7 @@ contributor:
 abstract:
 type: page
 weight: 101
+slug: age-of-urban-visions
 ---
 
 ## Cities and the Capitalist Economy

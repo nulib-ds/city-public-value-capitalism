@@ -7,6 +7,7 @@ contributor:
   - id: rsakurai
 type: page
 weight: 105
+slug: ecological-city
 ---
 
 ## The Meaning of Biodiversity Conservation in and around Cities
