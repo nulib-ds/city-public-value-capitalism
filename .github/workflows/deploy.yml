@@ -12,6 +12,7 @@ on:
 jobs:
   install-quire:
     name: 'Install and Setup Quire'
+    runs-on: macos-11
     steps:
       - name: 'Checkout Publication Files'
         uses: actions/checkout@v3
