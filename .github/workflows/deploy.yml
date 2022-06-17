@@ -13,10 +13,13 @@ jobs:
   install-quire:
     name: 'Install and Setup Quire'
     steps:
-      - uses: actions/checkout@v3
-      - uses: actions/setup-node@v3
+      - name: 'Checkout Publication Files'
+        uses: actions/checkout@v3
+      - name: 'Install Node'
+        uses: actions/setup-node@v3
         with:
           node-version: '14.18.1'
-      - run: |
+      - name: 'Install Quire with npm'
+        run: |
           npm install --global @thegetty/quire-cli
           quire --help
