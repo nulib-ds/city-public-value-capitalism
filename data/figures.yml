@@ -80,6 +80,42 @@ figure_list:
     src: figures/6.4.png
     caption: "Fig. 6.4. Three aspects of economic inclusion: skills, finance, and services."
     credit: "Adapted from Anttiroiko & de Jong, 2020, p. 71"
+  - id: "8.1"
+    src: figures/8.1.png
+    caption: "Fig. 8.1: Increase Ratio of Land Price of Kyoto in Two Periods (IDW). Left: 2005--2009 Right: 2014--2018. "
+    credit: "Made by National Land Data Download Service"
+    alt:
+  - id: "8.2"
+    src: figures/8.2.png
+    caption: "Fig. 8.2: Population Change of Kyoto from 2005 to 2015 by Age Groups. Left: Increase of Age 14 or Younger (Decrease excluded.1 dot=3 persons). Middle: Increase of Age 15 to 64 (Decrease excluded. 1 dot=9 persons). Right: Decrease of Age 65 or Older (Increase excluded. 1 dot=3 persons)."
+    credit: "Made by Population Census (2005--2015)"
+    alt:
+  - id: "8.3"
+    src: figures/8.3.png
+    caption: "Fig. 8.3: Change of Maximum Height Regulation of City Planning in Kyoto City before and after 2007 based on Enactment of New Landscape Ordinance."
+    credit: "Made by the City Planning Maps before and after 2007 by the Author"
+    alt:
+  - id: "8.4"
+    src: figures/8.4.png
+    caption: |
+      Fig. 8.4: Increase in Permitted Businesses by the "Hotel Business Act" in Kyoto City 2014--2020 (Unit: Number of Business).
+    credit: "Kyoto City as of July 2021."
+    alt:
+  - id: "8.5"
+    src: figures/8.5.png
+    caption: "Fig. 8.5: Lodging Choice organized by Selected Countries, consisting of 92.7% to the Total Number of Foreign Tourists in Kyoto City (multiple answers allowed)."
+    credit:
+    alt:
+  - id: "8.6"
+    src: figures/8.6.png
+    caption: "Fig. 8.6: Distribution of Lodging Houses registered after 2008, Focused on Selected Wards of Kyoto City. Source: The author, created from the List of Registered Business in Kyoto City and Address Matching Service by CSIS, University of Tokyo."
+    credit:
+    alt:
+  - id: "8.7"
+    src: figures/8.7.png
+    caption: "Fig. 8.7: Waves of Gentrification"
+    credit:
+    alt: 
   - id: "11.1"
     src: figures/11.1.png
     alt: "Bar graph that shows an increase in housing costs as a percentage of income"
