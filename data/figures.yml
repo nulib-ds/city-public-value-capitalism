@@ -54,7 +54,7 @@ figure_list:
     src: figures/5.1.png
     alt:
     caption: |
-      Fig 5.1: Result of structural equation modeling \[*n*=398, *X^2^*=189.368, *p*\<0.001, *GFI*=0.93, *AGFI*=0.89, *RMSEA*=0.08; all values are at standardized coefficient (*p*\<0.01)
+      Fig 5.1: Result of structural equation modeling \[*n*=398, *X<sup>2</sup>*=189.368, *p*\<0.001, *GFI*=0.93, *AGFI*=0.89, *RMSEA*=0.08; all values are at standardized coefficient (*p*\<0.01)
     credit: "Source: revised from Sakurai et al. 2016"
   - id: "5.2"
     src: figures/5.2.jpg
