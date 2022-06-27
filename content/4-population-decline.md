@@ -1,6 +1,6 @@
 ---
 label: '4'
-title: Practices of Japanese Local Cities Coping with Population Decline
+title: 'Practices of Japanese Local Cities Coping with Population Decline'
 short_title: Population Decline
 contributor:
   - id: kkaido

@@ -1,7 +1,7 @@
 ---
 label: '5'
-title: The Ecological City
-subtitle: With a Specific Focus on Participatory Biological Conservation
+title: 'The Ecological City'
+subtitle: 'With a Specific Focus on Participatory Biological Conservation'
 short_title: Ecological City
 contributor:
   - id: rsakurai

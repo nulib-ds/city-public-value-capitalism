@@ -1,7 +1,7 @@
 ---
 label: '1'
-title: The Age of Urban Visions
-subtitle: From Global Cites to Civic Cities
+title: 'The Age of Urban Visions'
+subtitle: 'From Global Cites to Civic Cities'
 short_title: Age of Urban Visions
 contributor:
   - id: hmori

@@ -1,12 +1,13 @@
 ---
 label: '12'
-title: "Smart and Sustainable?"
-subtitle: "Capitalism and City Futures in the Age of Crisis"
+title: 'Smart and Sustainable?'
+subtitle: 'Capitalism and City Futures in the Age of Crisis'
 short_title: Smart and Sustainable
 contributor:
   - id: khartley
 type: page
 weight: 112
+slug: smart-and-sustainable
 ---
 
 ## Introduction

@@ -1,6 +1,6 @@
 ---
 label: '7'
-title: Restorative Cities as Regulatory Governance
+title: 'Restorative Cities as Regulatory Governance'
 short_title: Restorative Cities
 contributor:
   - id: vtaylor

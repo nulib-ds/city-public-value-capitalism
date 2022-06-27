@@ -1,14 +1,14 @@
 ---
 label: '13'
 title: 'Citizen-Centric Urban Governance'
-#subtitle: From Global Cites to Civic Cities
-short_title: 
+short_title: 'Urban Governance'
 contributor:
   - id: hmori
   - id: tyoshida
   - id: aanttiroiko
 type: page
 weight: 113
+slug: urban-governance
 ---
 
 ## Current Capitalism and City

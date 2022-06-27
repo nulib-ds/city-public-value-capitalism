@@ -1,6 +1,6 @@
 ---
 label: '8'
-title: Policies That Trigger Gentrification in Kyoto City
+title: 'Policies That Trigger Gentrification in Kyoto City'
 #subtitle: From Global Cites to Civic Cities
 short_title: Gentrification
 contributor:

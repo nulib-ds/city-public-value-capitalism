@@ -1,6 +1,6 @@
 ---
 label: '6'
-title: Building an Inclusive City
+title: 'Building an Inclusive City'
 #subtitle: From Global Cites to Civic Cities
 short_title: Inclusive City
 contributor:
