@@ -61,6 +61,14 @@ figure_list:
   - id: "5.3"
     src: figures/5.3.png
     caption: "Fig. 5.3. Results of open-ended questions on what the participants enjoyed most in the activities. (Japan: *n*=113, World cities: *n*=239)"
+    alt: |
+      - Connecting with Nature: Japan (33%), World Cities (10%)
+      - Learning: Japan (29%), World Cities (36%)
+      - Collaborating with others and sharing data: Japan (13%), World Cities (22%)
+      - Taking photos: Japan (10%), World Cities (0%)
+      - Physical aspect: Japan (6%), World Cities (4%)
+      - Exploring new places: Japan(5%), World Cities(12%)
+      - Helping the environment: Japan(0%), World Cities (22%)
   - id: "6.1"
     src: figures/6.1.png
     caption: "Fig. 6.1. Identity groups and evidence-based inclusion policy."
@@ -98,12 +106,31 @@ figure_list:
     caption: |
       Fig. 8.4: Increase in Permitted Businesses by the "Hotel Business Act" in Kyoto City 2014--2020 (Unit: Number of Business).
     credit: "Kyoto City as of July 2021."
-    alt: "This stacked bar chart illustrates the increase in permitted businesses for machiya, lodging houses (excluding machiya), and hotels and inns."
+    alt: |
+      This stacked bar chart illustrates the increase in permitted businesses for machiya, lodging houses (excluding machiya), and hotels and inns.
+
+      - 2014: Machiya(40), Lodging Houses (excluding Machiya)(420), Hotels and Inns(542)
+      - 2015: Machiya(145), Lodging Houses (excluding Machiya)(551), Hotels and Inns(532)
+      - 2016: Machiya(370), Lodging Houses (excluding Machiya)(1123), Hotels and Inns(550)
+      - 2017: Machiya(543), Lodging Houses (excluding Machiya)(1748), Hotels and Inns(575)
+      - 2018: Machiya(684), Lodging Houses (excluding Machiya)(2306), Hotels and Inns(624)
+      - 2019: Machiya(899), Lodging Houses (excluding Machiya)(2438), Hotels and Inns(656)
+      - 2020: Machiya(958), Lodging Houses (excluding Machiya)(2146), Hotels and Inns(679)
   - id: "8.5"
     src: figures/8.5.png
     caption: "Fig. 8.5: Lodging Choice organized by Selected Countries, consisting of 92.7% to the Total Number of Foreign Tourists in Kyoto City (multiple answers allowed)."
     credit:
-    alt: "This stacked bar chart illustrates the choice of accommodations by tourist nationality."
+    alt: |
+      This stacked bar chart illustrates the choice of accommodations by tourist nationality.
+
+      - Taiwan: Japanese Traditional Inn(38.2), Machiya Guest House Pilgrim's Lodging(4.5), Lodging House(24.5), Friends and Relatives House(1.8), Hotel(32.7), Others(1.8), No Answer(1.8), Total Visitors(11.1)
+      - S. Korea: Japanese Traditional Inn(20), Machiya Guest House Pilgrim's Lodging(7.5), Lodging House(2.5), Friends and Relatives House(0), Hotel(75), Others(0), No Answer(2.5), Total Visitors(4.1)
+      - North America: Japanese Traditional Inn(18.2), Machiya Guest House Pilgrim's Lodging(4.7), Lodging House(18.2), Friends and Relatives House(3.4), Hotel(61.5), Others(2.7), No Answer(2.7), Total Visitors(18.2)
+      - Hong Kong: Japanese Traditional Inn(16.7), Machiya Guest House Pilgrim's Lodging(2.8), Lodging House(12.5), Friends and Relatives House(0), Hotel(69.4), Others(1.4), No Answer(4.2), Total Visitors(16.7)
+      - Europe: Japanese Traditional Inn(11), Machiya Guest House Pilgrim's Lodging(11), Lodging House(10.5), Friends and Relatives House(0.7), Hotel(70.2), Others(4.6), No Answer(0.7), Total Visitors(11)
+      - Oceania: Japanese Traditional Inn(7.1), Machiya Guest House Pilgrim's Lodging(7.1), Lodging House(17.7), Friends and Relatives House(0), Hotel(66.4), Others(3.5), No Answer(1.8), Total Visitors(7.1)
+      - China: Japanese Traditional Inn(16.2), Machiya Guest House Pilgrim's Lodging(16.2), Lodging House(24.7), Friends and Relatives House(1.6), Hotel(61), Others(1.1), No Answer(1.9), Total Visitors(16.2)
+      - Southeast Asia: Japanese Traditional Inn(9.1), Machiya Guest House Pilgrim's Lodging(3.9), Lodging House(22.1), Friends and Relatives House(1.3), Hotel(64.9), Others(1.3), No Answer(0), Total Visitors(5.5)
   - id: "8.6"
     src: figures/8.6.png
     caption: "Fig. 8.6: Distribution of Lodging Houses registered after 2008, Focused on Selected Wards of Kyoto City. Source: The author, created from the List of Registered Business in Kyoto City and Address Matching Service by CSIS, University of Tokyo."
@@ -117,7 +144,10 @@ figure_list:
   - id: "10.1"
     src: figures/10.1.png
     caption: "Fig. 10.1: Access numbers from 2017 through 2020."
-    alt: "The horizontal axis gives the months April through March over the years 2017, 2018, 2019, 2020. The vertical axis gives the access numbers to the Mother Support portal site."
+    alt: |
+      The horizontal axis gives the months April through March over the years 2017, 2018, 2019, 2020. The vertical axis gives the access numbers to the Mother Support portal site.
+
+      
   - id: "10.2"
     caption: "Fig. 10.2: Inquiries by month in FY2020."
     src: figures/10.2.png
