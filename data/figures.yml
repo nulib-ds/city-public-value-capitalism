@@ -176,16 +176,6 @@ figure_list:
     caption: "Fig. 10.8: Desired area. Note: n-229 (excludes 18 unclear items)."
     src: figures/10.8.png
     alt: "This pie chart shows the desired area for housing. 7.9% wanted to stay in the same city or ward. 41.6% within the prefecture. 50.6% outside of the prefecture."
-  - id: "Photo 10.1"
-    caption: "Photo 10.1: The exterior of ideau"
-    credit: "Source: Photo taken by author."
-    src: photos/10.1.jpeg
-    alt: "This photograph shows the ideau's exterior. There appears to be a children's bicycle parked outside one of the doors and there are several Halloween decorations."
-  - id: "Photo 10.2"
-    caption: "Photo 10.2: The exterior of Glendale Jiyugaoka."
-    credit: "Source: Photo taken by Kuzunishi"
-    src: photos/10.2.jpeg
-    alt: "This photograph shows the share house's exterior. This three-story building has what appears to be a grey façade on the ground floor, and a white façade on the second and third floors."
   - id: "11.1"
     src: figures/11.1.png
     alt: "This bar chart illustrates housing stress in Australia, demonstrating a year-on-year increase. The horizontal axis gives the distribution of income spent on housing costs across three time periods: 1994-1005, 2005-2006, and 2017-2018. The vertical axis gives the percentage of the population."
