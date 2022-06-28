@@ -13,9 +13,9 @@ slug: smart-city
 
 ### *Definitions and Trends of Smart Cities in the World*
 
-The Organization for Economic Co-operation and Development (OECD) defines "Smart Cities" as \"initiatives or approaches that effectively leverage digitalization to boost citizen's well-being and deliver more efficient, sustainable and inclusive urban services and environments as part of a collaborative, multi-stakeholder process". However, it also states, \"The smart city concept is still in flux and subject to debate. Definitions of smart cities vary across OECD countries and institutions according to the geopolitical context and to the specific issues at hand.\"({{< q-cite "OECD, 2020" >}})
+The Organization for Economic Co-operation and Development (OECD) defines "Smart Cities" as \"initiatives or approaches that effectively leverage digitalization to boost citizen's well-being and deliver more efficient, sustainable and inclusive urban services and environments as part of a collaborative, multi-stakeholder process" ({{< q-cite "OECD, 2020" " " "p.8" >}}). However, it also states, \"The smart city concept is still in flux and subject to debate. Definitions of smart cities vary across OECD countries and institutions according to the geopolitical context and to the specific issues at hand.\"({{< q-cite "OECD, 2020" " " "p.8" >}})
 
-In terms of global trends on smart cities, the G20 Global Smart Cities Alliance was established in 2019 with the World Economic Forum as its secretariat ({{< q-cite "G20 Global Smart Cites Alliance WEB site, 2019" >}}; {{< q-cite "The World Economic Forum, 2021" >}}). The alliance aims to develop international basic principles and guidelines for cities to use data and digital technologies. 36 cities from around the world are participating as pioneer cities, and 4 cities from Japan are participating: Maebashi, Kaga, Hamamatsu, and Kakogawa (Fig. 3.1).
+In terms of global trends on smart cities, the G20 Global Smart Cities Alliance was established in 2019 with the World Economic Forum as its secretariat ({{< q-cite "G20 Global Smart Cites Alliance WEB site, 2019" >}}; {{< q-cite "The World Economic Forum, 2021" >}}). The alliance aims to develop international basic principles and guidelines for cities to use data and digital technologies. Thirty-six cities from around the world are participating as pioneer cities, and four cities from Japan are participating: Maebashi, Kaga, Hamamatsu, and Kakogawa (Fig. 3.1).
 
 {{< q-figure id="3.1" >}}
 
@@ -45,7 +45,7 @@ In order to realize regional development in accordance the Super City concept, t
 
 ### *Smart Cities and Sustainable Development Goals (SDGs)*
 
-The SDGs are international goals to be achieved by 2030 as stated in the \"2030 Agenda for Sustainable Development\" adopted at the United Nations Sustainable Development Summit 2015; they consist of 17 Goals and 169 Targets.
+The SDGs are international goals to be achieved by 2030 as stated in the \"2030 Agenda for Sustainable Development\" adopted at the United Nations Sustainable Development Summit 2015; they consist of 17 Goals and 169 Targets ({{< q-cite "United Nations, 2022" >}}).
 
 Goal 11 of the SDGs reads: \"Make cities and human settlements inclusive, safe, resilient and sustainable,\" and indeed the realization of smart cities is deeply related to the achievement of Goal 11. However, the scope of the SDGs is broad, and smart cities are related to all 17 Goals, as well as to 81 targets ({{< q-cite "MLIT, 2018" >}}). The Keidanren (Japan Business Federation) also states that Society 5.0 will contribute significantly to the achievement of SDGs because it is a new growth model that combines problem solving and future innovations. Since smart cities are the places where Society 5.0 will be demonstrated, the realization and implementation of smart cities is essential to the achievement of the SDGs.
 

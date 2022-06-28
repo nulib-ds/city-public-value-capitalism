@@ -67,6 +67,9 @@ entries:
     short: "United Nations, 2020"
     full: |
       United Nations. (2020). *The World Happiness Repor*t *2020.*
+  - id: "United Nations, 2022"
+    full: |
+      United Nations. (2022). Agenda of Sustainable Development Goals 2030, https://sdgs.un.org/goals
   - id: "World Bank 2015"
     short: "World Bank, 2015"
     full: |

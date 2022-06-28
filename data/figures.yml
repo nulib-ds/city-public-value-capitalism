@@ -16,7 +16,7 @@ figure_list:
   - id: "3.1"
     src: figures/3.1.png
     alt: "Map of the world marking the 36 smart cities"
-    caption: "Fig. 3.1: 36 Smart Cities in the world. Note that some of the initiatives of Pioneer Cities can be seen at the following website. https://globalsmartcitiesalliance.org/?page_id=714"
+    caption: "Fig. 3.1: Thirty-six Smart Cities in the world. Note that some of the initiatives of Pioneer Cities can be seen at the following website. https://globalsmartcitiesalliance.org/?page_id=714"
     alt: "This is a map that showcases the 36 Smart Cities around the world."
   - id: "3.2"
     src: figures/3.2.png
