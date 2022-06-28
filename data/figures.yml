@@ -147,11 +147,28 @@ figure_list:
     alt: |
       The horizontal axis gives the months April through March over the years 2017, 2018, 2019, 2020. The vertical axis gives the access numbers to the Mother Support portal site.
 
-      
+      - 2020: April(3568), May(6510), June(6865), July(7723), August(9112), September(9929), October(9516), November(9248), December(7057), January(8789), February(8598), March(8140)
+      - 2019: April(3291), May(3754), June(3507), July(4238), August(4621), September(4738), October(4641), November(3772), December(3265), January(3963), February(4114), March(4324)
+      - 2018: April(2347), May(2718), June(2486), July(2791), August(3640), September(3090), October(2852), November(2643), December(2655), January(3751), February(3455), March(3430)
+      - 2017: April(610), May(633), June(969), July(1520), August(1341), September(1175), October(1196), November(1192), December(1311), January(1706), February(1846), March(2543)
   - id: "10.2"
     caption: "Fig. 10.2: Inquiries by month in FY2020."
     src: figures/10.2.png
-    alt: "This chart illustrates the number of inquiries that Mother Support received. The horizontal axis gives the months April through March in fiscal year 2020. The horizontal axis gives the number of inquiries."
+    alt: |
+      This chart illustrates the number of inquiries that Mother Support received. The horizontal axis gives the months April through March in fiscal year 2020. The horizontal axis gives the number of inquiries.
+
+      - April: 8
+      - May: 19
+      - June:	24
+      - July:	23
+      - August: 18
+      - September: 18
+      - October:	20
+      - November:	18
+      - December:	14
+      - January:	24
+      - February:	19
+      - March:	24
   - id: "10.3"
     caption: "Fig. 10.3: Marital status of people making inquiries. Note: n-229."
     src: figures/10.3.png
@@ -167,7 +184,17 @@ figure_list:
   - id: "10.6"
     caption: "Fig. 10.6: Ages of children. Note: n-229 (excludes 22 unclear items)."
     src: figures/10.6.png
-    alt: "This bar chart illustrates the ages of children."
+    alt: |
+      This bar chart illustrates the ages of children.
+
+      - Pregnant:	1.1%
+      - 0 year of age: 7.6%
+      - 1-3 years of age:	39.6%
+      - 4-6 years of age:	25.5%
+      - 7-9 years of age:	16.0%
+      - 10-12 years of age:	6.9%
+      - 13  years of age and over: 3.3%
+
   - id: "10.7"
     caption: "Fig. 10.7: Desired entry point. Note: n-229 (excludes 68 unclear items)."
     src: figures/10.7.png
