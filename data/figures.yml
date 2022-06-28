@@ -116,6 +116,48 @@ figure_list:
     caption: "Fig. 8.7: Waves of Gentrification"
     credit:
     alt: 
+  - id: "10.1"
+    src: figures/10.1.png
+    caption: "Fig. 10.1: Access numbers from 2017 through 2020."
+    alt:
+  - id: "10.2"
+    caption: "Fig. 10.2: Inquiries by month in FY2020."
+    src: figures/10.2.png
+    alt:
+  - id: "10.3"
+    caption: "Fig. 10.3: Marital status of people making inquiries. Note: n-229."
+    src: figures/10.3.png
+    alt:
+  - id: "10.4"
+    caption: "Fig. 10.4: Employment status of people making inquiries. Note: n-229."
+    src: figures/10.4.png
+    alt:
+  - id: "10.5"
+    caption: "Fig. 10.5: Number of children. Note: n-229 (excludes 14 unclear items)."
+    src: figures/10.5.png
+    alt:
+  - id: "10.6"
+    caption: "Fig. 10.6: Ages of children. Note: n-229 (excludes 22 unclear items)."
+    src: figures/10.6.png
+    alt:
+  - id: "10.7"
+    caption: "Fig. 10.7: Desired entry point. Note: n-229 (excludes 68 unclear items)."
+    src: figures/10.7.png
+    alt:
+  - id: "10.8"
+    caption: "Fig. 10.8: Desired area. Note: n-229 (excludes 18 unclear items)."
+    src: figures/10.8.png
+    alt:
+  - id: "Photo 10.1"
+    caption: "Photo 10.1: The exterior of ideau"
+    credit: "Source: Photo taken by author."
+    src: photos/10.1.jpeg
+    alt:
+  - id: "Photo 10.2"
+    caption: "Photo 10.2: The exterior of Glendale Jiyugaoka."
+    credit: "Source: Photo taken by Kuzunishi"
+    src: photos/10.2.jpeg
+    alt:
   - id: "11.1"
     src: figures/11.1.png
     alt: "Bar graph that shows an increase in housing costs as a percentage of income"
