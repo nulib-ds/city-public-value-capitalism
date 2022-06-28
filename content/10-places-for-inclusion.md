@@ -114,9 +114,7 @@ Given the normal practice of using vacant houses and opening them based on pract
 |     Rent     |     70,000 yen (including internet and water)                                                                |
 |     Other    |     If unemployed upon entry, rent is reduced to 40,000 yen for up to two months until employment is secured |
 
-**Table 10.1**
-
-*Overview of ideau*
+### **Table 10.1: *Overview of ideau***
 
 ## Multigenerational Housing Beyond the Concept of One Family per House
 
@@ -132,9 +130,7 @@ For instance, one resident had started working from home due to workplace policy
 
 In a little less than two years since Glendale's opening, one of the older residents has already passed away; he was able to enjoy a full life within the house until the end. Ito, the CEO, received heartfelt thanks from the deceased resident's family and said that she felt convinced that "we can make more out of the potential for living with someone, not with family, yet not alone" ({{< q-cite "Kuzunishi, 2021" "p. 78" >}}).
 
-**Table 10.2**
-
-*Overview of Glendale Jiyugaoka*
+### **Table 10.2: *Overview of Glendale Jiyugaoka***
 
 |     Location |     12 minutes on foot from Toyoko Line Jiyugaoka Station |
 |--------------|-----------------------------------------------------------|
