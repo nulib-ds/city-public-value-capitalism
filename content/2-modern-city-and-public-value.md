@@ -7,7 +7,7 @@ contributor:
   - id: aanttiroiko
 type: page
 weight: 102
-slug: public-value-in-the-late-modern-city
+slug: chapter/2
 ---
 
 ## Introduction

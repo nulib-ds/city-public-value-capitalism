@@ -7,7 +7,7 @@ contributor:
   - id: skuo
 type: page
 weight: 109
-slug: court-mediation
+slug: chapter/9
 ---
 
 ## Introduction: Elder Care as Public Interest in Court-Ordered Mediation

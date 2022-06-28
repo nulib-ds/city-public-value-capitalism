@@ -8,7 +8,7 @@ contributor:
   - id: aanttiroiko
 type: page
 weight: 113
-slug: urban-governance
+slug: chapter/13
 ---
 
 ## Current Capitalism and City

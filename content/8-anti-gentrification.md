@@ -7,7 +7,7 @@ contributor:
   - id: tyoshida
 type: page
 weight: 108
-slug: gentrification
+slug: chapter/8
 ---
 
 ## Introduction: Discussing Gentrification

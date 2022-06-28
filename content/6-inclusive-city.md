@@ -7,7 +7,7 @@ contributor:
   - id: aanttiroiko
 type: page
 weight: 106
-slug: inclusive-city
+slug: chapter/6
 ---
 
 ## Introduction

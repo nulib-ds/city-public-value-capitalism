@@ -7,6 +7,7 @@ contributor:
   - id: lkuzunishi
 type: page
 weight: 110
+slug: chapter/10
 ---
 
 ## Women in Poverty and Reduced Marriage Rates

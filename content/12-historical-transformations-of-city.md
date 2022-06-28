@@ -7,7 +7,7 @@ contributor:
   - id: khartley
 type: page
 weight: 112
-slug: smart-and-sustainable
+slug: chapter/12
 ---
 
 ## Introduction
