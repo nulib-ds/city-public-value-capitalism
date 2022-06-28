@@ -39,11 +39,13 @@ figure_list:
     caption: "Fig. 3.5:Outline of the experimental setting"
   - id: "3.6"
     src: figures/3.6.png
-    alt: "This figure illustrates how a "water smart city" links creating a sustainable water supply to investing in infrastructure like wastewater treatment and rainwater runoff reduction, reclaiming and reusing the water supply. This figure also illustrates how ICT and innovation can strengthen sustainable water efforts, for example."
+    alt: |
+      This figure illustrates how a "water smart city" links creating a sustainable water supply to investing in infrastructure like wastewater treatment and rainwater runoff reduction, reclaiming and reusing the water supply. This figure also illustrates how ICT and innovation can strengthen sustainable water efforts, for example.
     caption: "Fig. 3.6: Outline of the Water Smart City"
   - id: "4.1"
     src: figures/4.1.png
-    alt: "This figure is a map of Japan that locates the "core cities" of Kanazawa, Fukui, Hirosaki and the "peripheral small towns" of Onomichi, Kamiyama, and Nagato."
+    alt: |
+      This figure is a map of Japan that locates the "core cities" of Kanazawa, Fukui, Hirosaki and the "peripheral small towns" of Onomichi, Kamiyama, and Nagato.
     caption: "Fig. 4.1: Locations of the Selected Cases"
   - id: "5.1"
     src: figures/5.1.png
@@ -161,7 +163,8 @@ figure_list:
     credit: "Figure adapted from ABS, 2019"
   - id: "11.2"
     src: figures/11.2.png
-    alt: "This process chart articulates the following four concepts, from left to right: first, is "data sources" including operational databases, external sources, and others; second, is "data staging" including restructuring, transformation, loading; third, is "data store" including detailed data, metadata, raw data; and fourth, is "users" including queries, reporting, application integration, and analytical models."
+    alt: |
+      This process chart articulates the following four concepts, from left to right: first, is "data sources" including operational databases, external sources, and others; second, is "data staging" including restructuring, transformation, loading; third, is "data store" including detailed data, metadata, raw data; and fourth, is "users" including queries, reporting, application integration, and analytical models.
     caption: "Fig. 11.2: A possible schema of use for data stores in Australia."
   - id: "11.3"
     src: figures/11.3.png
