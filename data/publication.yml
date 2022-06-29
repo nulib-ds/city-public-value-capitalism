@@ -28,8 +28,8 @@ language: en
 pub_type: book # book | journal-periodical | other
 
 identifier:
-  isbn:
-  url:
+  isbn: 978-1-954984-02-8
+  url: https://city-public-value-and-capitalism.northwestern.pub/
 
 publisher:
   - name: |

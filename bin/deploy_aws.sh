@@ -3,14 +3,14 @@
 BUILD_DIR="site"
 BUCKET_ID="city-public-value-and-capitalism.northwestern.pub"
 DIST_ID="E3MDI919TWPVU3"
-PDF_FILE="city-public-value-and-capitalism"
+#PDF_FILE="city-public-value-and-capitalism"
 
 echo "Deleting old publication"
 rm -rf $BUILD_DIR
 mkdir $BUILD_DIR
 
-echo "Generating PDF"
-quire pdf --file=$PDF_FILE
+#echo "Generating PDF"
+#quire pdf --file=$PDF_FILE
 
 echo "Generating site"
 quire site
