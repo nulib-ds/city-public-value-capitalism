@@ -9,7 +9,7 @@
   </url>
   
   <url>
-    <loc>/forward/</loc>
+    <loc>/foreword/</loc>
   </url>
   
   <url>
@@ -69,11 +69,15 @@
   </url>
   
   <url>
+    <loc>/editors/</loc>
+  </url>
+  
+  <url>
     <loc>/contributors/</loc>
   </url>
   
   <url>
-    <loc>/about/</loc>
+    <loc>/credits/</loc>
   </url>
   
 </urlset>
