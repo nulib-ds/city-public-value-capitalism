@@ -18,11 +18,11 @@ _City, Public Value, and Capitalism: New Urban Visions and Public Strategies_ wa
 
 DOWNLOAD
 
-: [PDF]()
+: [PDF](/downloads/city-public-value-and-capitalism.pdf)
 
 PURCHASE
 
-: [Paperback]()
+: [Paperback](https://www.lulu.com/shop/ari-veikko-anttiroiko-and-tomohiko-yoshida-and-hiroyuki-mori/city-public-value-and-capitalism/paperback/product-72wv75.html?page=1&pageSize=4)
 
 ISBN
 

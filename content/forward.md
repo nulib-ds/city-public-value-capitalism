@@ -1,6 +1,6 @@
 ---
-title: 'Forward'
-short_title: 'Forward'
+title: 'Foreword'
+short_title: 'Foreword'
 contributor:
   - id: hmori
   - id: tyoshida
@@ -8,7 +8,7 @@ contributor:
 abstract:
 type: page
 weight: 100
-slug: forward
+slug: foreword
 ---
 
 This book, *City, Public Value, and Capitalism*, is one fruit of research conducted through the online policy platform of Meridian 180, headquartered at the Northwestern Roberta Buffett Institute for Global Affairs at Northwestern University.
