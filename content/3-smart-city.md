@@ -13,13 +13,13 @@ slug: chapter/3
 
 ### *Definitions and Trends of Smart Cities in the World*
 
-The Organization for Economic Co-operation and Development (OECD) defines "Smart Cities" as \"initiatives or approaches that effectively leverage digitalization to boost citizen's well-being and deliver more efficient, sustainable and inclusive urban services and environments as part of a collaborative, multi-stakeholder process" ({{< q-cite "OECD, 2020" " " "p.8" >}}). However, it also states, \"The smart city concept is still in flux and subject to debate. Definitions of smart cities vary across OECD countries and institutions according to the geopolitical context and to the specific issues at hand.\"({{< q-cite "OECD, 2020" " " "p.8" >}})
+The Organization for Economic Co-operation and Development ({{< q-cite "OECD, 2020" >}}) defines "Smart Cities" as "initiatives or approaches that effectively leverage digitalization to boost citizen's well-being and deliver more efficient, sustainable and inclusive urban services and environments as part of a collaborative, multi-stakeholder process" ({{< q-cite "OECD, 2020" " " "p.8" >}}). However, it also states, "the smart city concept is still in flux and subject to debate. Definitions of smart cities vary across OECD countries and institutions according to the geopolitical context and to the specific issues at hand"({{< q-cite "OECD, 2020" " " "p.8" >}}).
 
 In terms of global trends on smart cities, the G20 Global Smart Cities Alliance was established in 2019 with the World Economic Forum as its secretariat ({{< q-cite "G20 Global Smart Cites Alliance WEB site, 2019" >}}; {{< q-cite "The World Economic Forum, 2021" >}}). The alliance aims to develop international basic principles and guidelines for cities to use data and digital technologies. Thirty-six cities from around the world are participating as pioneer cities, and four cities from Japan are participating: Maebashi, Kaga, Hamamatsu, and Kakogawa (Fig. 3.1).
 
 {{< q-figure id="3.1" >}}
 
-There is also a report of survey results available on the benchmarking of building policies for ethical and responsible governance in smart city development. The standards used for benchmarking include \"equity, inclusivity and social impact,\" \"privacy and transparency,\" "Security and resilience,\" \"Operational and financial sustainability,\" and \"Openness and interoperability,\" and the results of a survey of 36 pioneer cities are presented.
+There is also a report of survey results available on the benchmarking of building policies for ethical and responsible governance in smart city development. The standards used for benchmarking include "equity, inclusivity and social impact," "privacy and transparency," "security and resilience," "operational and financial sustainability," and "openness and interoperability," and the results of a survey of 36 pioneer cities are presented.
 
 ### *Definitions and Trends among Smart Cities in Japan*
 

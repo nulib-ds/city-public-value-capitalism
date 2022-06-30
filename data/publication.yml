@@ -52,7 +52,7 @@ contributor:
     title: Professor of Economics
     affiliation: Ritsumeikan University (Japan)
     bio: |
-      Hiroyuki Mori is Professor of Economics at Ritsumeikan University, Japan. He received his BA and MA from Osaka City University and his PhD in Policy Science from Ritsumeikan University. He was previously assistant professor at Kochi University and associate professor at Osaka Kyoiku University. He is a member of the board of trustees of the Japan Institute of Public Finance, the Japan Association of Local Public Finance, and the Japan Association for the Study of Local Government. For decades he has contributed to research on public finance, urban policy, and industrial disaster. 
+      **Hiroyuki Mori** is Professor of Economics at Ritsumeikan University, Japan. He received his BA and MA from Osaka City University and his PhD in Policy Science from Ritsumeikan University. He was previously assistant professor at Kochi University and associate professor at Osaka Kyoiku University. He is a member of the board of trustees of the Japan Institute of Public Finance, the Japan Association of Local Public Finance, and the Japan Association for the Study of Local Government. For decades he has contributed to research on public finance, urban policy, and industrial disaster.  
     url:
     pic:
   - id: tyoshida
@@ -62,7 +62,7 @@ contributor:
     title: Professor of Urban and Regional Planning
     affiliation: Ritsumeikan University (Japan)
     bio: |
-      **Tomohiko Yoshida** is a Professor of Urban and Regional Planning at Ritsumeikan University, Japan. He received his BE, ME, and Doctor of Engineering from Kyoto University, Japan. He began his career as a research associate at Toyohashi University of Technology and moved to the University of Tsukuba as an assistant professor. He is a member of the Association of Urban Housing Science, the City Planning Institute of Japan, and the Architectural Institute of Japan. For decades he has contributed to the policy development process in City Planning Councils, Vacant House Strategy Committees  , and Development Investigation Committees of municipal governments.
+      **Tomohiko Yoshida** is a Professor of Urban and Regional Planning at Ritsumeikan University, Japan. He received his BE, ME, and Doctor of Engineering from Kyoto University, Japan. He began his career as a research associate at Toyohashi University of Technology and moved to the University of Tsukuba as an assistant professor. He is a member of the Association of Urban Housing Science, the City Planning Institute of Japan, and the Architectural Institute of Japan. For decades he has contributed to the policy development process in City Planning Councils, Vacant House Strategy Committees, and Development Investigation Committees of municipal governments. 
   - id: aanttiroiko
     type: primary
     first_name: Ari-Veikko
@@ -93,14 +93,14 @@ contributor:
     type: secondary
     first_name: Keiro
     last_name: Hattori
-    title: Professor of Policy Science
-    affiliation: Ryukoku University (Japan)
+    title: Professor
+    affiliation: Faculty of Policy Science, Ryukoku University (Japan)
   - id: yfujii
     type: secondary
     first_name: Yasuyuki
     last_name: Fujii
     title: Professor
-    affiliation: Faculty of Cultural Policy and Management, Shizuoka University of Art and Culture apan)
+    affiliation: Faculty of Cultural Policy and Management, Shizuoka University of Art and Culture (Japan)
   - id: mmatsuyuki
     type: secondary
     first_name: Mihoko
@@ -118,19 +118,13 @@ contributor:
     first_name: Veronica
     last_name: Taylor
     title: Professor
-    affiliation: School of Regulation and Global Governance, Australian National University (Australia)
+    affiliation: Law and Regulation, School of Regulation and Global Governance (RegNet), Australian National University (Australia)
   - id: mivec
     type: secondary
     first_name: Mary
     last_name: Ivec
     title: PhD Scholar
-    affiliation: School of Regulation and Global Governance, Australian National University (Australia)
-  - id: mivec
-    type: secondary
-    first_name: Mary
-    last_name: Ivec
-    title: PhD Scholar
-    affiliation: School of Regulation and Global Governance, Australian National University (Australia)
+    affiliation: School of Regulation and Global Governance (RegNet), Australian National University (Australia)
   - id: skuo
     type: secondary
     first_name: Shu-chin Grace
@@ -166,7 +160,7 @@ contributor:
     first_name: Kris 
     last_name: Hartley
     title: Assistant Professor
-    affiliation: Department of Asian and Policy Studies of the Faculty of Liberal Arts and Social Sciences, The Education University of Hong Kong (China)
+    affiliation: Department of Asian and Policy Studies (APS) of the Faculty of Liberal Arts and Social Sciences (FLASS), The Education University of Hong Kong (China)
 
 # ------------------------------------------------------------------------------
 # Copright & License
