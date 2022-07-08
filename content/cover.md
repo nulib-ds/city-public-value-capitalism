@@ -10,7 +10,7 @@ image: cover_web.png
 
 ## Description
 
-_City, Public Value, and Capitalism: New Urban Visions and Public Strategies_ discusses how cities that have developed through the successive stages of capitalism should transform themselves when adapting to the conditions of the contemporary global age. Since modern times, the capitalist economy has largely defined society, politics, and environment—this has casued the collapse of communities, the crisis of democracy, and serious environmental problems. Cities have a responsibility to overcome such problems and pave the way for a healthy global future. This book highlights various aspects of the urban initiatives and movements that are emerging in different parts of the world. It shows how they are rooted in new insights into “public value” that go beyond the one-dimensional view of economic affluence, and are instrumental to the restoration of humanity. How to develop a city that creates “public value” while utilizing new technologies is one of the biggest challenges faced by contemporary civilization, and this book sets the direction for future solutions to such a challenging endeavor.
+_City, Public Value, and Capitalism: New Urban Visions and Public Strategies_ discusses how cities that have developed through the successive stages of capitalism should transform themselves when adapting to the conditions of the contemporary global age. Since modern times, the capitalist economy has largely defined society, politics, and environment—this has caused the collapse of communities, the crisis of democracy, and serious environmental problems. Cities have a responsibility to overcome such problems and pave the way for a healthy global future. This book highlights various aspects of the urban initiatives and movements that are emerging in different parts of the world. It shows how they are rooted in new insights into “public value” that go beyond the one-dimensional view of economic affluence, and are instrumental to the restoration of humanity. How to develop a city that creates “public value” while utilizing new technologies is one of the biggest challenges faced by contemporary civilization, and this book sets the direction for future solutions to such a challenging endeavor.
 
 ### More Information
 
@@ -37,6 +37,10 @@ COPYRIGHT
 : © 2022 The Authors. The text of this work is licensed under a Creative Commons Attribution-Non-Commercial-NoDerivatives 4.0 International License. To view a copy of this license, visit [creativecommons.org/licenses/by-nc-nd/4.0/](https://creativecommons.org/licenses/by-nc-nd/4.0/).
 
 : ![CC BY-NC-ND](/img/by-nc-nd.png)
+
+### Additional Resources
+
+Read the _City, Public Value, and Capitalism_ Issue Brief, which provides a summary of key takeaways from the e-book, [here](https://buffett.northwestern.edu/documents/city,-public-value-and-capitalism-issue_brief.pdf).
 
 ### Project Team
 
