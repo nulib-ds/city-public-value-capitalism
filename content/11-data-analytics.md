@@ -5,8 +5,8 @@ subtitle: 'An Australian Context'
 short_title: Digital Transformations
 contributor:
   - id: mng
-  - id: cpettit
   - id: bsoundararaj
+  - id: cpettit
 type: page
 weight: 111
 slug: chapter/11

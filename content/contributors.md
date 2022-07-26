@@ -55,5 +55,5 @@ Shu-chin Grace Kuo
 Lisa Kuzunishi
 : Associate Professor, Faculty of Regional Development Studies, Otemon Gakuin University (Japan)
 
-Matthew Ng
+Matthew Kok Ming Ng
 : Research Fellow, City Futures Research Centre, The University of New South Wales (Australia)
